@@ -1,2 +1,1 @@
-### Emily Spencer
-![Emily Spencer](https://i.postimg.cc/VNw9QsSH/Emily-J-Spencer.png)
+![Emily Spencer](https://i.postimg.cc/90XRJzny/Emily-J-Spencer-2.png)
