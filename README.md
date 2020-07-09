@@ -1,3 +1,3 @@
 ### Emily Spencer
 
-![emily](emilyjspencer.png)
+![buddha](buddha.png)
