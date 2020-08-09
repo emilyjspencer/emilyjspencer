@@ -1,3 +1,3 @@
 ### Emily Spencer
 
-![buddha](buddha.png)
+![octocats](octocats.png)
