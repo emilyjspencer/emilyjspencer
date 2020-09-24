@@ -1,6 +1,6 @@
 [![octocats.png](https://i.postimg.cc/VNLYcP6p/octocats.png)](https://postimg.cc/PC9Gmc1Q)
 
-I’m a linguist turned fullstack developer who is passionate about technology and continuous development. Starting my programming journey with Ruby at Makers Academy, I learn new skills often, from Python, Express, PHP, to improving my understanding of accessible website creation with React.
+I’m a linguist turned fullstack developer who is passionate about technology and professional development. Starting my programming journey with Ruby at Makers Academy, I learn new skills often, from Python, Express, PHP, to improving my understanding of accessible website creation with React.
 * 😄 Pronouns: She/Her
 * 💻 Languages and frameworks I use most often: JavaScript, React, Ruby
 * 🌱 I’m currently learning PHP and Laravel.
