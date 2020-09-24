@@ -6,6 +6,6 @@ I’m a linguist turned fullstack developer who is passionate about technology a
 * 🌱 I’m currently learning PHP and Laravel.
 * 💻 I've recently learned React
 * 👯 I’m looking to collaborate on any projects related to mental health and wellbeing, education or D&I.
-* 😄 In my spare time I can be found reading, playing the piano, dancing, listening to tech pocasts such as the Ladybug Podcast, or taking photographs.
+* 😄 In my spare time I can be found reading, playing the piano, dancing, listening to tech podcasts such as the Ladybug Podcast, or taking photographs.
 * :books: Coding books I enjoyed: Sandi Metz's Practical Object-Oriented Design in Ruby: An Agile Primer, Robin Wieruch's The Road to Learn React, and Douglas Crockford's JavaScript: The Good Parts
 
