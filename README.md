@@ -25,11 +25,11 @@ My programming journey really began however with Ruby at Makers Academy.
 * **Processes:** Pair programming, test-driven development, agile 
 
 See some of my work with React:
-**Guardian News** -  Deployed with Surge at: [this link](http://sable-notebook.surge.sh/)!
-**Presents Planner** - Deployed with Surge at: [this link](http://pale-plastic.surge.sh/)!
-**Bucket List** - Deployed with Surge at: [this link](http://wealthy-cover.surge.sh/)!
-**Times Tables** - Deployed with Surge at: [this link](http://useful-cushion.surge.sh/)!
-**Pristine Pics** - Deployed with Surge at: [this link](http://guiltless-clouds.surge.sh/)!
+* **Guardian News** -  Deployed with Surge at: [this link](http://sable-notebook.surge.sh/)!
+* **Presents Planner** - Deployed with Surge at: [this link](http://pale-plastic.surge.sh/)!
+* **Bucket List** - Deployed with Surge at: [this link](http://wealthy-cover.surge.sh/)!
+* **Times Tables** - Deployed with Surge at: [this link](http://useful-cushion.surge.sh/)!
+* **Pristine Pics** - Deployed with Surge at: [this link](http://guiltless-clouds.surge.sh/)!
 
 Vanilla JavaScript:
-**Guess the Shade** - Deployed with Surge at:[this link](http://profuse-swing.surge.sh/)!
+* **Guess the Shade** - Deployed with Surge at:[this link](http://profuse-swing.surge.sh/)!
