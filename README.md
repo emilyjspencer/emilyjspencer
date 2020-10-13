@@ -39,3 +39,8 @@ Current Projects:
 * **Personal/Portfolio website** - To host my work: https://github.com/emilyjspencer/personal-website 
 * **A Meditation app** - An app to help you meditate : https://github.com/emilyjspencer/Meditate
 * **Find Places** - A MERN stack application to help people share interesting places with others; https://github.com/emilyjspencer/Find-Places
+
+Upcoming:
+
+* **Vegan Ventures** - An app to showcase my sister's vegan recipes
+* A React Native wellbeing app
