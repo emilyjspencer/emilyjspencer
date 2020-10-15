@@ -35,7 +35,7 @@ Vanilla JavaScript:
 * **Guess the Shade** - Deployed with Surge at:[this link](http://profuse-swing.surge.sh/)!
 
 Current Projects:
-* **Alohomora 2.0** - An application for Harry Potter fans, complete with quiz, chatroom, spells and characters pages: https://github.com/emilyjspencer/Alohomora--2.0 Currently deployed at the following: https://5f88d2ea38b1383808aca189--thirsty-johnson-2e67ef.netlify.app/
+* **Alohomora 2.0** - An application for Harry Potter fans, complete with quiz, chatroom, spells and characters pages: https://github.com/emilyjspencer/Alohomora--2.0 Currently deployed at the following: https://5f88db6e46264f4cec7743c1--thirsty-johnson-2e67ef.netlify.app
 * **Personal/Portfolio website** - To host my work: https://github.com/emilyjspencer/personal-website 
 * **A Meditation app** - An app to help you meditate : https://github.com/emilyjspencer/Meditate
 * **Find Places** - A MERN stack application to help people share interesting places with others; https://github.com/emilyjspencer/Find-Places
