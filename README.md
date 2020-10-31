@@ -33,7 +33,7 @@ Current Projects:
 See some of my work with React:
 * **Times Tables** - Deployed with Surge at: [this link](http://aback-statement.surge.sh/)!
 * **Pristine Pics** - Deployed with Surge at: [this link](http://guiltless-clouds.surge.sh/)!
-* **Guardian News** -  Deployed with Surge at: [this link](http://sable-notebook.surge.sh/)!
+* **Guardian News** -  Deployed with Surge at: [this link](http://wicked-expert.surge.sh)!
 * **Presents Planner** - Deployed with Surge at: [this link](http://insidious-roof.surge.sh/)!
 * **Bucket List** - Deployed with Surge at: [this link](http://wealthy-cover.surge.sh/)!
 
