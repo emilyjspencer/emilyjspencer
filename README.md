@@ -40,6 +40,7 @@ See some of my work with React:
 
 Vanilla JavaScript:
 * **Guess the Shade** - Deployed with Surge at:[this link](http://profuse-swing.surge.sh/)!
+* **Guess the French word** - Deployed with Surge at: [this link](http://numberless-impulse.surge.sh/)!
 
 
 Upcoming:
