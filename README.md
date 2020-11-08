@@ -25,11 +25,11 @@ My programming journey really began however with Ruby at Makers Academy.
 * **Processes:** Pair programming, test-driven development, agile 
 
 Current Projects:
-* **Alohomora 2.0** - An application for Harry Potter fans, complete with quiz, chatroom, spells and characters pages: https://github.com/emilyjspencer/Alohomora--2.0 Currently deployed at the following: https://5f88db6e46264f4cec7743c1--thirsty-johnson-2e67ef.netlify.app
-* **Personal/Portfolio website** - To host my work: https://github.com/emilyjspencer/Portfolio-Emily 
+* **Alohomora 2.0** - A React/Nodes.js application for Harry Potter fans, complete with quiz, chatroom, spells and characters pages: https://github.com/emilyjspencer/Alohomora--2.0 Currently deployed at the following: https://5f88db6e46264f4cec7743c1--thirsty-johnson-2e67ef.netlify.app
+* **Personal/Portfolio website** - To host my work: https://github.com/emilyjspencer/Portfolio-Emily Built with React
 * **Global Reads** - A Rails application: https://github.com/emilyjspencer/Global-Reads
 * **Find Places** - A MERN stack application to help people share interesting places with others; https://github.com/emilyjspencer/Find-Places
-* **A Meditation app** - An app to help you meditate : https://github.com/emilyjspencer/Meditate
+* **A Meditation app** - A React application to help you meditate : https://github.com/emilyjspencer/Meditate
 
 See some of my work with React:
 * **Times Tables** - Deployed with Surge at: [this link](http://aback-statement.surge.sh/)!
