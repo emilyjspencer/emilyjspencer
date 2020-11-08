@@ -27,6 +27,7 @@ My programming journey really began however with Ruby at Makers Academy.
 Current Projects:
 * **Alohomora 2.0** - An application for Harry Potter fans, complete with quiz, chatroom, spells and characters pages: https://github.com/emilyjspencer/Alohomora--2.0 Currently deployed at the following: https://5f88db6e46264f4cec7743c1--thirsty-johnson-2e67ef.netlify.app
 * **Personal/Portfolio website** - To host my work: https://github.com/emilyjspencer/Portfolio-Emily 
+* **Global Reads** - A Rails application: https://github.com/emilyjspencer/Global-Reads
 * **Find Places** - A MERN stack application to help people share interesting places with others; https://github.com/emilyjspencer/Find-Places
 * **A Meditation app** - An app to help you meditate : https://github.com/emilyjspencer/Meditate
 
@@ -42,6 +43,16 @@ Vanilla JavaScript:
 * **Guess the Shade** - Deployed with Surge at:[this link](http://profuse-swing.surge.sh/)!
 * **Guess the French word** - Deployed with Surge at: [this link](http://numberless-impulse.surge.sh/)!
 
+A few of my Makers projects:
+* **Chitter** - A clone of Twitter: https://github.com/emilyjspencer/chitter-challenge. My first full-stack application!
+* **Rock, Paper, Scissors** - A simple game of Rock, Paper, Scissors. A Sinatra-based application: https://github.com/emilyjspencer/rps-challenge
+* **Bookmarks** - Save your most-used websites with this Bookmark Manager: https://github.com/emilyjspencer/Bookmarks
+* **Acebook** - Facebook clone built with Rails. A group project: https://github.com/emilyjspencer/acebook-inSANE
+* **Ubb** - A chat bot designed to provide advice on matters of personal finance. My final project at Makers: API:  https://github.com/nikimanoledaki/finbot-api
+UI: https://github.com/nikimanoledaki/finbot
+
+Other: 
+* **Student Register** - A PERN-stack application: https://github.com/emilyjspencer/Student-Register
 
 Upcoming:
 
