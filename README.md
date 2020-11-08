@@ -41,7 +41,7 @@ See some of my work with React:
 
 Vanilla JavaScript:
 * **Guess the Shade** - Deployed with Surge at:[this link](http://profuse-swing.surge.sh/)!
-* **Guess the French word** - Deployed with Surge at: [this link](http://numberless-impulse.surge.sh/)!
+* **Guess the French word** - Deployed with Surge at: [this link](http://receptive-selection.surge.sh/)!
 
 A few of my Makers projects:
 * **Chitter** - A clone of Twitter: https://github.com/emilyjspencer/chitter-challenge. My first full-stack application!
