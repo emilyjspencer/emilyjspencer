@@ -6,23 +6,25 @@ My programming journey really began however with Ruby at Makers Academy.
 * :snake:  I love learning new languages, frameworks, and concepts from Python, Express, PHP, to improving my understanding of accessible website creation with React.
 * 😄  Pronouns:  She/Her
 * 💻  Languages and frameworks I use most often: JavaScript, React, Ruby
-* 🌱  I’m currently learning PHP and Laravel.
-* 💻  I have recently been learning React, Jest and Enzyme, Node.js, MongoDB, Mocha and Chai.
+* 🌱  I’m currently learning Java.
+* 💻  I have recently been learning React, Jest and Enzyme, Node.js, MongoDB, Mocha and Chai, PHP and Laravel.
 * 👯  I’m looking to collaborate on any projects related to mental health and wellbeing, education or D&I.
 * 😄  In my spare time I can be found reading, playing the piano, dancing, listening to tech podcasts such as the Ladybug Podcast, or taking photographs.
 * :books: Coding books I enjoyed: Sandi Metz's Practical Object-Oriented Design in Ruby: An Agile Primer, Robin Wieruch's The Road to Learn React, and Douglas Crockford's JavaScript: The Good Parts
 * :hammer: Tools and technologies I have experience with:
 
-* **Languages:** Ruby, JavaScript, Python, Node.js
+* **Languages:** Ruby, JavaScript, Python
+* **Language engines:** Node.js
 * **Frameworks:** Rails, Sinatra, Express
 * **Libraries:** React, jQuery
 * **Design:** HTML / CSS / Bootstrap / Semantic UI/ MaterialUI
 * **Testing Frameworks:** RSpec, Jasmine, Capybara, Jest, Enzyme, Cypress, Mocha, Chai
-* **Databases:** PostgreSQL, MongoDB, sqlite3
+* **Databases:** PostgreSQL, MongoDB, sqlite3, Oracle
 * **Data Visualization:** Chart.js, D3
 * **Deployment:** Travis CI, Heroku
 * **Distributed Systems:** Git
-* **Processes:** Pair programming, test-driven development, agile 
+* **Processes:** Pair programming, test-driven development, agile
+*  **Other:** Unix and shell scripting
 
 Current Projects:
 * **Alohomora 2.0** - A React/Node.js application for Harry Potter fans, complete with quiz, chatroom, spells and characters pages: https://github.com/emilyjspencer/Alohomora--2.0 Currently deployed at the following: https://5f88db6e46264f4cec7743c1--thirsty-johnson-2e67ef.netlify.app
