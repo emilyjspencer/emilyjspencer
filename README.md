@@ -8,7 +8,7 @@ My programming journey really began however with Ruby at Makers Academy.
 
 * 💻  Languages and frameworks I use most often: JavaScript, React, Ruby
 * 🌱  I’m currently learning: Java.
-* :nerd_face: In the near future I be working with Spring, Angular and TypeScript.
+* :nerd_face: In the near future I will be working with Spring, Angular and TypeScript.
 * 💻  I have recently gained exposure to React, Jest and Enzyme, Node.js, MongoDB, Mocha and Chai, PHP and Laravel.
 * 👯  I’m looking to collaborate on any projects related to mental health and wellbeing, education or D&I.
 * :books: Coding books I enjoyed: Sandi Metz's Practical Object-Oriented Design in Ruby: An Agile Primer, Robin Wieruch's The Road to Learn React, and Douglas Crockford's JavaScript: The Good Parts
