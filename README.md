@@ -25,3 +25,5 @@ ABRSM Grade 8 piano, ABRSM Grade 5 violin, RAD Grade 6 ballet, ISTD Grade 6 mode
 College Senior Silver Speech and Drama. I competed in various competitions such as Richmond Upon Thames Festival of the Performing Arts and Kingston Upon Thames Festival of
 the Performing Arts, played at various concerts, including local Young musicians and ABRSM High Scorer concerts. I also performed in various dance shows with the Jeanne Bamforth
 School of Dancing.
+
+Codewars: https://www.codewars.com/users/lajoiedevivre89
