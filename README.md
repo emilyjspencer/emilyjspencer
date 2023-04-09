@@ -10,7 +10,14 @@
 * SQL
 
 **FDM**
-* Java, Spring, Spring Boot, Business Writing, Presentation skills, Python, JUnit, JSP, React, Redux, UNix and shell scripting, SQL, JDBC, JPA
+* Java, Python
+* Spring, Spring Boot, 
+* Business Writing, Presentation skills
+* React, Redux, 
+* Unix and shell scripting, 
+* SQL, 
+* JDBC, JPA, JSP
+* JUnit
 
 **The University of Sheffield** - BA Modern Languages
 
