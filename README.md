@@ -9,9 +9,9 @@
 
 ## Currently working on:
 
-* A Wellbeing App (Angular) 🧘
-* A new Portfolio App (Angular) 🎓
-* A pills tracker 💊
+&nbsp;&nbsp;&nbsp;🧘 A Wellbeing App (Angular) 
+&nbsp;&nbsp;&nbsp;🎓 A new Portfolio App (Angular)
+&nbsp;&nbsp;&nbsp;💊 A pills tracker 💊
 
 ## Currently revisiting: 
 
