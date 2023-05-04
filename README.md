@@ -7,15 +7,15 @@
 &nbsp;&nbsp;&nbsp;💚&nbsp;Advocate for DI in tech. Mental Health \
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning
 
-# Currently working on:
+## Currently working on:
 
-* A Wellbeing App (Angular)
-* A new Portfolio App (Angular)
-* A pills tracker
+* A Wellbeing App (Angular) 🧘
+* A new Portfolio App (Angular) 🎓
+* A pills tracker 💊
 
-# Currently revisiting: 
+## Currently revisiting: 
 
-* React
+* React and Node
 
 ## Education:
 
