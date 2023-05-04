@@ -2,10 +2,20 @@
 ![ejs](emilydev.png)
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> 
 
-&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp; Developer - most of my professional experience has seen me work with Angular \
+&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp;Developer - most of my professional experience has seen me work with Angular \
 &nbsp;&nbsp;&nbsp;♀️&nbsp;My pronouns are: She/Her  \
 &nbsp;&nbsp;&nbsp;💚&nbsp;Advocate for DI in tech. Mental Health \
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning
+
+# Currently working on:
+
+* A Wellbeing App (Angular)
+* A new Portfolio App (Angular)
+* A pills tracker
+
+# Currently revisiting: 
+
+* React
 
 ## Education:
 
