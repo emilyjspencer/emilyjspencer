@@ -15,7 +15,7 @@
 
 ## Currently revisiting: 
 
-* React and Node
+* React, Node and NestJS
 
 ## Education:
 
