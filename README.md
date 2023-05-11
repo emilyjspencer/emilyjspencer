@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;♀️&nbsp;Pronouns: She/Her  \
 &nbsp;&nbsp;&nbsp;💚&nbsp;Advocate for DI in tech. Mental Health \
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning\
-&nbsp;&nbsp;&nbsp;🐱‍💻&nbsp;Portfolio: https://645b71c6eae072099cda165b--sparkly-pony-dc36da.netlify.app/
+&nbsp;&nbsp;&nbsp;🐱‍💻&nbsp;Portfolio: https://645d15a8268c14024515902e--eloquent-kataifi-8a6721.netlify.app/
 ## Currently working on:
 
 &nbsp;&nbsp;&nbsp;🧘 A Wellbeing App (Angular) 
