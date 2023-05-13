@@ -10,14 +10,14 @@
 
 ## Currently working on:
 
-&nbsp;&nbsp;&nbsp;🧘 A Wellbeing App (Angular & NestJS) \ 
+&nbsp;&nbsp;&nbsp;🧘 A Wellbeing App (Angular & NestJS)\ 
 &nbsp;&nbsp;&nbsp;🎓 A new Portfolio App (Angular) \
 &nbsp;&nbsp;&nbsp;💊 A pills tracker
 
 ### Planning to do:
 
 &nbsp;&nbsp;&nbsp;🏋🏻‍♀️ Fitness app \
-&nbsp;&nbsp;&nbsp; Add an Angular frontend to my Perfume application. (Also re-create using a React frontend)
+&nbsp;&nbsp;&nbsp;🌺 Add an Angular frontend to my Perfume application. (Also re-create using a React frontend)
 
 
 ## Currently revisiting: 
