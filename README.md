@@ -9,9 +9,15 @@
 &nbsp;&nbsp;&nbsp;🐱‍💻&nbsp;Portfolio: https://645d15a8268c14024515902e--eloquent-kataifi-8a6721.netlify.app/
 ## Currently working on:
 
-&nbsp;&nbsp;&nbsp;🧘 A Wellbeing App (Angular) 
+&nbsp;&nbsp;&nbsp;🧘 A Wellbeing App (Angular & NestJS) 
 &nbsp;&nbsp;&nbsp;🎓 A new Portfolio App (Angular)
-&nbsp;&nbsp;&nbsp;💊 A pills tracker 💊
+&nbsp;&nbsp;&nbsp;💊 A pills tracker
+
+### Planning to do:
+
+&nbsp;&nbsp;&nbsp;🏋🏻‍♀️ Fitness app
+&nbsp;&nbsp;&nbsp; Add an Angular frontend to my Perfume application. (Also re-create using a React frontend)
+
 
 ## Currently revisiting: 
 
