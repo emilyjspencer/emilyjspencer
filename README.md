@@ -22,7 +22,7 @@
 
 ## Currently revisiting: 
 
-* React, Node and NestJS
+* React, Node, NestJS, Spring Boot
 
 ## Education:
 
