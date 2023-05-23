@@ -10,9 +10,9 @@
 
 ## Currently working on:
 
-&nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS)\ 
-&nbsp;&nbsp;&nbsp;🎓A new Portfolio App (Angular)\
-&nbsp;&nbsp;&nbsp;💊A pills tracker
+&nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS) \ 
+&nbsp;&nbsp;&nbsp;🎓A new Portfolio App (Angular) \
+&nbsp;&nbsp;&nbsp;💊A pills tracker \
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot)
 
 
