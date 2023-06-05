@@ -13,7 +13,8 @@
 &nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS) \ 
 &nbsp;&nbsp;&nbsp;🎓A new Portfolio App (Angular) \
 &nbsp;&nbsp;&nbsp;💊A pills tracker \
-&nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot)
+&nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
+&nbsp;&nbsp;&nbsp; A Portal (FDM) (React and Spring Boot)
 
 
 ### Planning to do:
