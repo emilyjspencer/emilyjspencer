@@ -25,7 +25,13 @@
 
 ## Currently revisiting: 
 
-* React, Node, NestJS, Spring Boot
+* React, Node, NestJS, Spring Boot, Java
+
+## Personal goals:
+
+* Obtain the AWS Cloud practitioner examination
+* Improve knowledge of architecture including microservices
+* Improve testing
 
 ## Education:
 
