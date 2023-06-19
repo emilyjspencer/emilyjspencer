@@ -29,9 +29,11 @@
 
 ## Personal goals:
 
-* Obtain the AWS Cloud practitioner examination
+* Obtain the AWS Cloud practitioner certification
 * Improve knowledge of architecture including microservices
 * Improve testing
+* Improve knowledge and understanding of design patterns
+* More easily switch between different coding languages 
 
 ## Education:
 
