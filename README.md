@@ -33,7 +33,8 @@
 * Improve knowledge of architecture including microservices
 * Improve testing
 * Improve knowledge and understanding of design patterns
-* More easily switch between different coding languages 
+* More easily switch between different coding languages
+* Technical communication
 
 ## Education:
 
