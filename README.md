@@ -29,12 +29,12 @@
 
 ## Personal goals:
 
-* Obtain the AWS Cloud practitioner certification
 * Improve knowledge of architecture including microservices
-* Improve testing
 * Improve knowledge and understanding of design patterns
-* More easily switch between different coding languages
+* Switch between different coding languages with ease
 * Technical communication
+* Oracle Certified Associate, Java SE 8 Programmer Certification
+* Obtain the AWS Cloud practitioner certification
 
 ## Education:
 
