@@ -10,10 +10,9 @@
 
 ## Currently working on:
 
-&nbsp;&nbsp;&nbsp; A recruiment Portal (FDM) (React and Spring Boot) 
+&nbsp;&nbsp;&nbsp;💁 A recruiment Portal (FDM) (React and Spring Boot) 
 &nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS) \ 
 &nbsp;&nbsp;&nbsp;🎓A new Portfolio App (Angular) \
-&nbsp;&nbsp;&nbsp;💊A pills tracker \
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
 
 
@@ -21,8 +20,9 @@
 ### Planning to do:
 
 &nbsp;&nbsp;&nbsp;🏋🏻‍♀️Fitness app \
+&nbsp;&nbsp;&nbsp;💊A pills tracker \
+&nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity \
 &nbsp;&nbsp;&nbsp;🌺Add an Angular frontend to my Perfume application. (Also re-create using a React frontend)
-&nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity
 
 
 
