@@ -10,7 +10,7 @@
 
 ## Currently working on:
 
-&nbsp;&nbsp;&nbsp;💁 A recruiment Portal (FDM) (React and Spring Boot) 
+&nbsp;&nbsp;&nbsp;💁 A recruitment Portal (FDM) (React and Spring Boot) 
 &nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS) \ 
 &nbsp;&nbsp;&nbsp;🎓A new Portfolio App (Angular) \
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
@@ -19,9 +19,9 @@
 
 ### Planning to do:
 
-&nbsp;&nbsp;&nbsp;🏋🏻‍♀️Fitness app \
-&nbsp;&nbsp;&nbsp;💊A pills tracker \
-&nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity \
+&nbsp;&nbsp;&nbsp;🏋🏻‍♀️Fitness app \ Angular & NestJS or React & Spring Boot
+&nbsp;&nbsp;&nbsp;💊A pills tracker \ Potentially to be built using Ionic
+&nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity \ Websockets
 &nbsp;&nbsp;&nbsp;🌺Add an Angular frontend to my Perfume application. (Also re-create using a React frontend)
 
 
@@ -36,7 +36,7 @@
 * Improve knowledge and understanding of design patterns
 * Switch between different coding languages with ease
 * Technical communication
-* Oracle Certified Associate, Java SE 8 Programmer Certification
+* Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
 * Obtain the AWS Cloud practitioner certification
 
 ## Education:
