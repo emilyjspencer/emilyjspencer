@@ -19,9 +19,9 @@
 
 ### Planning to do:
 
-&nbsp;&nbsp;&nbsp;🏋🏻‍♀️Fitness app Angular & NestJS or React & Spring Boot \
-&nbsp;&nbsp;&nbsp;💊A pills tracker  Potentially to be built using Ionic \
-&nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity Websockets \
+&nbsp;&nbsp;&nbsp;🏋🏻‍♀️Fitness app. To be built using Angular & NestJS or React & Spring Boot \
+&nbsp;&nbsp;&nbsp;💊A pills tracker.  Potentially to be built using Ionic \
+&nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity. Will make use of Websockets \
 &nbsp;&nbsp;&nbsp;🌺Add an Angular frontend to my Perfume application. (Also re-create using a React frontend)
 
 
