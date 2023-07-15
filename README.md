@@ -1,5 +1,4 @@
 
-![ejs](1.png)
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> 
 
 &nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp;Developer - most of my professional experience has seen me work with Angular \
