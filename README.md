@@ -33,12 +33,13 @@
 
 ## Personal goals:
 
+* Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
+* Obtain the Oracle Certified Professional, Java SE 11 Developer certification
 * Learn ngrx (Angular) and Redux (React)
 * Improve knowledge of architecture including microservices
 * Improve knowledge and understanding of design patterns
 * Switch between different coding languages with ease
 * Technical communication
-* Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
 * Obtain the AWS Cloud practitioner certification
 
 ## Education:
