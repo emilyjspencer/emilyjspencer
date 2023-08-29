@@ -38,7 +38,6 @@
 * Learn ngrx (Angular) and Redux (React)
 * Improve knowledge of architecture including microservices
 * Improve knowledge and understanding of design patterns
-* Switch between different coding languages with ease
 * Technical communication
 * Obtain the AWS Cloud practitioner certification
 
