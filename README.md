@@ -10,7 +10,6 @@
 ## Currently working on:
 
 &nbsp;&nbsp;&nbsp;💁 A recruitment Portal (FDM) (React and Spring Boot) \
-&nbsp;&nbsp;&nbsp;💁 Multiplayer quiz app for Friday Fika (FDM) (React and Spring Boot, WebSockets) \
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
 &nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity. Will make use of Websockets, STOMP, Socket.io, Spring Boot, React \
 &nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS) Will include a gratitude journal, breathing exercises, meditation zone, fitness tracker with data visualization \ 
