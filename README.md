@@ -1,7 +1,7 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> 
 
-&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp;Developer - most of my professional experience has seen me work with Angular \
+&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp;Developer - most of my professional experience has seen me work with Angular but I aspire to be a 'fullstack dev'! \
 &nbsp;&nbsp;&nbsp;♀️&nbsp;Pronouns: She/Her  \
 &nbsp;&nbsp;&nbsp;💚&nbsp;Advocate for DI in tech. Mental Health \
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
@@ -32,9 +32,10 @@
 
 ## Personal goals:
 
+* Improve knowledge of Node.js
+* Learn ngrx (Angular) and Redux (React)
 * Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
 * Obtain the Oracle Certified Professional, Java SE 11 Developer certification
-* Learn ngrx (Angular) and Redux (React)
 * Improve knowledge of architecture including microservices
 * Improve knowledge and understanding of design patterns
 * Technical communication
@@ -60,6 +61,7 @@
 * SQL, 
 * JDBC, JPA, JSP
 * JUnit
+* PySpark, Apache Spark
 
 **The University of Sheffield** - BA Modern Languages
 
