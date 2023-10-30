@@ -33,6 +33,7 @@
 ## Personal goals:
 
 * Improve knowledge of Node.js
+* Embody practices that meet Web Content Accessibility Guidelines (WCAG) requirements
 * Learn ngrx (Angular) and Redux (React)
 * Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
 * Obtain the Oracle Certified Professional, Java SE 11 Developer certification
