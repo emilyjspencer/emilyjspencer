@@ -1,5 +1,5 @@
 
-# 🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️ 🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> 
+# 🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️ 🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> 
 
 &nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp;Developer - most of my professional experience has seen me work with Angular but I aspire to be a 'fullstack dev'! \
 &nbsp;&nbsp;&nbsp;♀️&nbsp;Pronouns: She/Her  \
