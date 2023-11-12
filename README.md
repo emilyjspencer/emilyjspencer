@@ -1,7 +1,7 @@
 
 
 
-&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp; Full stack dev' \
+&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp; Full stack devloper \
 &nbsp;&nbsp;&nbsp;♀️&nbsp;Pronouns: She/Her  \
 &nbsp;&nbsp;&nbsp;💚&nbsp;Advocate for DI in tech. Mental Health \
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
@@ -32,14 +32,14 @@
 ## Personal goals:
 
 * Improve knowledge of Node.js
-* Embody practices that meet Web Content Accessibility Guidelines (WCAG) requirements
-* Learn ngrx (Angular) and Redux (React)
+* Learn NgRx (Angular) and Redux (React)
 * Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
 * Obtain the Oracle Certified Professional, Java SE 11 Developer certification
-* Improve knowledge of architecture including microservices
+* Improve knowledge of architecture and system design
 * Improve knowledge and understanding of design patterns
-* Technical communication
+* Improve technical communication
 * Obtain the AWS Cloud practitioner certification
+* Ensure code I write is focused on accessibility
 
 ## Education:
 
@@ -56,12 +56,22 @@
 * Java, Python
 * Spring, Spring Boot, 
 * Business Writing, Presentation skills
-* React, Redux, 
+* React
 * Unix and shell scripting, 
 * SQL, 
 * JDBC, JPA, JSP
 * JUnit
 * PySpark, Apache Spark
+
+# Skills gained from experience and self-learning
+
+* ReactJS
+* Angular
+* SCSS
+* Jest
+* RxJS
+* React Testing Library
+
 
 **The University of Sheffield** - BA Modern Languages
 
