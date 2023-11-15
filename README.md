@@ -12,7 +12,6 @@
 &nbsp;&nbsp;&nbsp;💁 A recruitment Portal (React and Spring Boot) \
 &nbsp;&nbsp;&nbsp;💁 E-learning platform \
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
-&nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity. Will make use of Websockets, STOMP, Socket.io, Spring Boot, React \
 &nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS) Will include a gratitude journal, breathing exercises, meditation zone, fitness tracker with data visualization \ 
 &nbsp;&nbsp;&nbsp;🎓A new Portfolio App (Angular) \
 
@@ -23,6 +22,7 @@
 &nbsp;&nbsp;&nbsp;💊A pills tracker.  Potentially to be built using Ionic \
 &nbsp;&nbsp;&nbsp;🌺Add an Angular frontend to my Perfume application. (Also re-create using a React frontend) \
 &nbsp;&nbsp;&nbsp;👩‍🏫A new portfolio - React. Fully responsive
+&nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity. Will make use of Websockets, STOMP, Socket.io, Spring Boot, React \
 
 
 
@@ -32,13 +32,13 @@
 
 ## Personal goals:
 
+* Improve knowledge of architecture and system design
+* Systems thinking, design thinking, design patterns
 * Improve knowledge of Node.js
 * Learn NgRx (Angular) and Redux (React)
 * Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
 * Obtain the Oracle Certified Professional, Java SE 11 Developer certification
-* Improve knowledge of architecture and system design
 * Obtain the AWS Cloud practitioner certification
-* Ensure code I write is focused on accessibility
 
 ## Education:
 
