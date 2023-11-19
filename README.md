@@ -70,6 +70,10 @@
 * Jest
 * RxJS
 * React Testing Library
+* GraphQL
+* AEM
+* Cypress
+* Storybook
 
 
 **The University of Sheffield** - BA Modern Languages
