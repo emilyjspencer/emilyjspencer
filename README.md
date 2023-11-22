@@ -74,6 +74,8 @@
 * AEM
 * Cypress
 * Storybook
+* Jupyter Notebooks
+* Databricks
 
 
 **The University of Sheffield** - BA Modern Languages
