@@ -1,7 +1,7 @@
 
 
 
-&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp;Full stack developer \
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Full stack developer \
 &nbsp;&nbsp;&nbsp;♀️&nbsp;Pronouns: She/Her  \
 &nbsp;&nbsp;&nbsp;💚&nbsp;Advocate for DI in tech. Mental Health \
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
