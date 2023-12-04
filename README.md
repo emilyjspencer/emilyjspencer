@@ -26,9 +26,6 @@
 
 
 
-## Currently revisiting: 
-
-* React, Node, NestJS, Spring Boot, Java
 
 ## Personal goals:
 
@@ -39,6 +36,8 @@
 * Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
 * Obtain the Oracle Certified Professional, Java SE 11 Developer certification
 * Obtain the AWS Cloud practitioner certification
+* Obtain the AWS Data Engineer certification
+* Obtain the AWS Solutions Architect certification
 
 ## Education:
 
