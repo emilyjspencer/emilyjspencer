@@ -38,6 +38,11 @@
 * Obtain the AWS Cloud practitioner certification
 * Obtain the AWS Data Engineer certification
 * Obtain the AWS Solutions Architect certification
+* Obtain the DC Data Scientist Associate certificate
+* Obtain the DC Data Scientist Professional certificate
+* Obtain the DC Data Analyst Associate certificate
+* Obtain the DC Data Analyst Professional certificate
+* Obtain the DC Data Engineer Associate certificate
 
 ## Education:
 
