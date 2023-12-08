@@ -10,7 +10,6 @@
 ## Currently working on:
 
 &nbsp;&nbsp;&nbsp;💁 A recruitment Portal (React and Spring Boot) \
-&nbsp;&nbsp;&nbsp;💁 E-learning platform \
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
 &nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS) Will include a gratitude journal, breathing exercises, meditation zone, fitness tracker with data visualization \ 
 &nbsp;&nbsp;&nbsp;🎓A new Portfolio App (Angular) \
@@ -36,6 +35,7 @@
 * Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
 * Obtain the Oracle Certified Professional, Java SE 11 Developer certification
 * Obtain the AWS Cloud practitioner certification
+* Obtain the AWS Certified Developer Associate certification
 * Obtain the AWS Data Engineer certification
 * Obtain the AWS Solutions Architect certification
 * Obtain the DC Data Scientist Associate certificate
