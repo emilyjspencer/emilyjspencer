@@ -7,8 +7,10 @@
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
 &nbsp;&nbsp;&nbsp;🐱‍💻&nbsp;Portfolio: https://64bd59473981b23ce3121793--jocular-lebkuchen-18452d.netlify.app/
 
-## Have worked with Angular, TypeScript, StoryBook, Jest, Java
-## Currently working with Python, React, Spring Boot, Pyspark, NumPy, with a focus on data analytics, data engineering, ML and cloud (AWS)
+## Have worked with:
+Angular, TypeScript, StoryBook, Jest, Java
+## Currently working with:
+Python, React, Spring Boot, Pyspark, NumPy, with a focus on data analytics, data engineering, ML and cloud (AWS)
 
 ## Currently working on:
 
