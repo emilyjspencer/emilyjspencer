@@ -2,8 +2,8 @@
 
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Full stack developer \
-&nbsp;&nbsp;&nbsp;💚&nbsp;Advocate for DI in tech. Mental Health \
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Highly versatile individual, a self starter with an aptitude for learning, and an interest in web development, cloud, and data \
+&nbsp;&nbsp;&nbsp;💚&nbsp;Advocate for DI in tech. Mental Health \
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
 &nbsp;&nbsp;&nbsp;🐱‍💻&nbsp;Portfolio: https://64bd59473981b23ce3121793--jocular-lebkuchen-18452d.netlify.app/
 
@@ -11,7 +11,7 @@
 Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit
 
 ## Currently working with:
-Python, React, Spring Boot, Pyspark, NumPy, with a focus on data analytics, data engineering, ML and cloud (AWS)
+Python, React, Spring Boot, Pyspark, NumPy, with a focus on data analytics, data engineering, ML and cloud (AWS) \
 I'm in the process of prepping for AWS certifications and recently underwent some data engineering training
 
 ## Currently working on:
