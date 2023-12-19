@@ -18,7 +18,7 @@ I'm in the process of prepping for AWS certifications and recently underwent som
 ## Previously worked on
 &nbsp;&nbsp;&nbsp;💁 A recruitment Portal (React, Spring Boot, MySQL) \
 &nbsp;&nbsp;&nbsp;💁 Ingesting and manipulating large datasets. Building machine-learning pipelines. Data manipulation and visualization with PySpark and Apache Spark\
-&nbsp;&nbsp;&nbsp;💁 Investment management company's public website \
+&nbsp;&nbsp;&nbsp;💁 Investment management company's public website & component library  (Angular, RxJS, Jest, Storybook, SCSS, AEM) \
 
 ## Currently working on:
 &nbsp;&nbsp;&nbsp;💁 Job prep platform (AI-focused) \
