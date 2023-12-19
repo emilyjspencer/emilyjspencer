@@ -11,12 +11,17 @@
 Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit
 
 ## Currently working with:
-Python, React, Spring Boot, Pyspark, NumPy, with a focus on data analytics, data engineering, ML and cloud (AWS) \
+Python, Pyspark, NumPy, Pandas, Flask with a focus on NLP, ML, data analytics, data engineering, and cloud (AWS) \
+React and Spring Boot (additionally)\
 I'm in the process of prepping for AWS certifications and recently underwent some data engineering training
 
-## Currently working on:
+## Previously worked on
+&nbsp;&nbsp;&nbsp;💁 A recruitment Portal (React, Spring Boot, MySQL) \
+&nbsp;&nbsp;&nbsp;💁 Ingesting and manipulating large datasets. Building machine-learning pipelines. Data manipulation and visualization with PySpark and Apache Spark\
+&nbsp;&nbsp;&nbsp;💁 Investment management company's public website \
 
-&nbsp;&nbsp;&nbsp;💁 A recruitment Portal (React and Spring Boot) \
+## Currently working on:
+&nbsp;&nbsp;&nbsp;💁 Job prep platform (AI-focused) \
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
 &nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS) Will include a gratitude journal, breathing exercises, meditation zone, fitness tracker with data visualization \ 
 &nbsp;&nbsp;&nbsp;🎓A new Portfolio App (Angular) \
@@ -39,7 +44,7 @@ I'm in the process of prepping for AWS certifications and recently underwent som
 * Systems thinking, design thinking, design patterns
 * Improve knowledge of Node.js
 * Learn NgRx (Angular) and Redux (React)
-* Obtain the Oracle Certified Associate, Java SE 11 Programmer Certification
+* Obtain the Oracle Certified Associate, Java SE 8 Programmer Certification
 * Obtain the Oracle Certified Professional, Java SE 11 Developer certification
 * Obtain the AWS Cloud practitioner certification
 * Obtain the AWS Certified Developer Associate certification
