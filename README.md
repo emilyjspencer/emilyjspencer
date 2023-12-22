@@ -42,8 +42,6 @@ I'm in the process of prepping for AWS certifications and recently underwent som
 
 * Improve knowledge of architecture and system design
 * Systems thinking, design thinking, design patterns
-* Improve knowledge of Node.js
-* Learn NgRx (Angular) and Redux (React)
 * Obtain the Oracle Certified Associate, Java SE 8 Programmer Certification
 * Obtain the Oracle Certified Professional, Java SE 11 Developer certification
 * Obtain the AWS Cloud practitioner certification
