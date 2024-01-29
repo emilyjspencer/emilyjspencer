@@ -48,6 +48,7 @@ I'm in the process of prepping for AWS certifications and recently underwent som
 * Obtain the AWS Certified Developer Associate certification
 * Obtain the AWS Data Engineer certification
 * Obtain the AWS Solutions Architect certification
+* Obtain the AWS Certified DevOps Engineer certification
 * Obtain the DC Data Scientist Associate certificate
 * Obtain the DC Data Scientist Professional certificate
 * Obtain the DC Data Analyst Associate certificate
