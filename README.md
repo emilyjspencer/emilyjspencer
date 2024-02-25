@@ -37,6 +37,8 @@ C#.Net & DevOps tooling, Cloud
 
 * Improve knowledge of architecture and system design
 * Systems thinking, design thinking, design patterns
+* Foundational C# with Microsoft Certification
+* Further C# certifications
 * Obtain the AWS Cloud practitioner certification
 * Obtain the AWS Certified Developer Associate certification
 * Obtain the AWS Data Engineer certification
@@ -70,21 +72,6 @@ C#.Net & DevOps tooling, Cloud
 * JUnit
 * PySpark, Apache Spark
 
-# Skills gained from experience and self-learning
-
-* ReactJS
-* Angular
-* SCSS
-* Jest
-* RxJS
-* React Testing Library
-* GraphQL
-* AEM
-* Cypress
-* Storybook
-* Jupyter Notebooks
-* Databricks
-
 
 **The University of Sheffield** - BA Modern Languages
 
@@ -100,4 +87,18 @@ College Senior Silver Speech and Drama. I competed in various competitions such 
 the Performing Arts, played at various concerts, including local Young musicians and ABRSM High Scorer concerts. I also performed in various dance shows with the Jeanne Bamforth
 School of Dancing.
 
+# Skills gained from experience and self-learning
+
+* ReactJS
+* Angular
+* SCSS
+* Jest
+* RxJS
+* React Testing Library
+* GraphQL
+* AEM
+* Cypress
+* Storybook
+* Jupyter Notebooks
+* Databricks
 Codewars: https://www.codewars.com/users/lajoiedevivre89
