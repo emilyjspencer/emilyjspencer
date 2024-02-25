@@ -10,10 +10,8 @@
 ## Have worked with:
 Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit
 
-## Currently working with:
-Python, Pyspark, NumPy, Pandas, Flask with a focus on NLP, ML, data analytics, data engineering, and cloud (AWS) \
-React and Spring Boot (additionally)\
-I'm in the process of prepping for AWS certifications and recently underwent some data engineering training
+## Currently focus:
+C#.Net & DevOps tooling, Cloud
 
 ## Previously worked on
 &nbsp;&nbsp;&nbsp;💁 A recruitment Portal (React, Spring Boot, MySQL) \
@@ -42,8 +40,6 @@ I'm in the process of prepping for AWS certifications and recently underwent som
 
 * Improve knowledge of architecture and system design
 * Systems thinking, design thinking, design patterns
-* Obtain the Oracle Certified Associate, Java SE 8 Programmer Certification
-* Obtain the Oracle Certified Professional, Java SE 11 Developer certification
 * Obtain the AWS Cloud practitioner certification
 * Obtain the AWS Certified Developer Associate certification
 * Obtain the AWS Data Engineer certification
