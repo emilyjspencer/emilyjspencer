@@ -17,12 +17,10 @@ C#.Net & DevOps tooling, Cloud
 &nbsp;&nbsp;&nbsp;💁 A recruitment Portal (React, Spring Boot, MySQL) \
 &nbsp;&nbsp;&nbsp;💁 Ingesting and manipulating large datasets. Building machine-learning pipelines. Data manipulation and visualization with PySpark and Apache Spark\
 &nbsp;&nbsp;&nbsp;💁 Investment management company's public website & component library  (Angular, RxJS, Jest, Storybook, SCSS, AEM) \
-
-## Currently working on:
+&nbsp;&nbsp;&nbsp;💁 Two recruitment tools using React and Spring Boot \
 &nbsp;&nbsp;&nbsp;💁 Job prep platform (AI-focused) \
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
-&nbsp;&nbsp;&nbsp;🧘A Wellbeing App (Angular & NestJS) Will include a gratitude journal, breathing exercises, meditation zone, fitness tracker with data visualization \ 
-&nbsp;&nbsp;&nbsp;🎓A new Portfolio App (Angular) \
+
 
 
 ### Upcoming/planning:
