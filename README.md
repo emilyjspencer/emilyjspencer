@@ -11,7 +11,7 @@
 Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit
 
 ## Currently focus:
-C#.Net & DevOps tooling, Cloud
+C#.Net & DevOps tooling, Cloud, System Design
 
 ## Previously worked on
 &nbsp;&nbsp;&nbsp;💁 Investment management company's public website & component library  (Angular, RxJS, Jest, Storybook, SCSS, AEM) \
