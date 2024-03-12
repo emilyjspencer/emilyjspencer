@@ -2,7 +2,7 @@
 
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Full stack developer \
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Highly versatile individual, a self starter with an aptitude for learning, and an interest in web development, cloud, data and devops\
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, and an interest in web development, cloud, data and devops\
 &nbsp;&nbsp;&nbsp;💚&nbsp;Advocate for DI in tech. Mental Health \
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
 &nbsp;&nbsp;&nbsp;🐱‍💻&nbsp;Portfolio: https://64bd59473981b23ce3121793--jocular-lebkuchen-18452d.netlify.app/
@@ -21,22 +21,10 @@ C#.Net & DevOps tooling, Cloud, System Design
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
 
 
-
-### Upcoming/planning:
-
-&nbsp;&nbsp;&nbsp;🏋🏻‍♀️Fitness app. To be built using Angular & NestJS or React & Spring Boot \
-&nbsp;&nbsp;&nbsp;💊A pills tracker.  Potentially to be built using Ionic \
-&nbsp;&nbsp;&nbsp;🌺Add an Angular frontend to my Perfume application. (Also re-create using a React frontend) \
-&nbsp;&nbsp;&nbsp;👩‍🏫A new portfolio - React. Fully responsive
-&nbsp;&nbsp;&nbsp;🧠An anonymous chat application for the workplace, where employees can talk with others about mental health if they feel unable reveal their identity. Will make use of Websockets, STOMP, Socket.io, Spring Boot, React \
-
-
-
-
 ## Personal goals:
 
-* Improve knowledge of architecture and system design
-* Systems thinking, design thinking, design patterns
+* Improve knowledge of architecture, microservices and system design
+* Systems thinking, design patterns
 * Foundational C# with Microsoft Certification
 * Further C# certifications
 * Obtain the AWS Cloud practitioner certification
