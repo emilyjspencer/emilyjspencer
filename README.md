@@ -11,8 +11,8 @@
 Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit
 
 ## Current focus:
-C#.Net 
-DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, Geneos AWS, Azure Devops)
+C#.Net \
+DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, Geneos, AWS, Azure Devops)\
 System Design
 
 ## Previously worked on
@@ -34,6 +34,7 @@ System Design
 * Obtain the AWS Data Engineer certification
 * Obtain the AWS Solutions Architect certification
 * Obtain the AWS Certified DevOps Engineer certification
+* Obtain Azure DevOps certification
 * Obtain the DC Data Scientist Associate certificate
 * Obtain the DC Data Scientist Professional certificate
 * Obtain the DC Data Analyst Associate certificate
