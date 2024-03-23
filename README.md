@@ -11,7 +11,9 @@
 Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit
 
 ## Current focus:
-C#.Net & DevOps tooling (Docker, Kubernetes, OpenShift, Splunk, Geneos etc), Cloud & Infrastructure (AWS, Azure Devops), System Design
+C#.Net 
+DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, Geneos AWS, Azure Devops)
+System Design
 
 ## Previously worked on
 &nbsp;&nbsp;&nbsp;💁 Investment management company's public website & component library  (Angular, RxJS, Jest, Storybook, SCSS, AEM) \
