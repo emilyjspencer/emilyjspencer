@@ -10,7 +10,7 @@
 ## Have worked with:
 Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit
 
-## Currentl focus:
+## Current focus:
 C#.Net & DevOps tooling (Docker, Kubernetes, OpenShift, Splunk, Geneos etc), Cloud & Infrastructure (AWS, Azure Devops), System Design
 
 ## Previously worked on
