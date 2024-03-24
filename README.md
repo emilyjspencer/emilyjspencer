@@ -27,7 +27,6 @@ System Design
 
 * Improve knowledge of architecture, microservices and system design
 * Systems thinking, design patterns
-* Foundational C# with Microsoft Certification
 * Further C# certifications
 * Obtain the AWS Cloud practitioner certification
 * Obtain the AWS Certified Developer Associate certification
