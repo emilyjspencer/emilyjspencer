@@ -25,7 +25,7 @@ System Design
 
 ## Personal goals:
 
-* Improve knowledge of architecture, microservices, syste design, systems thinking, design patterns
+* Improve knowledge of architecture, microservices, system design, systems thinking, design patterns
 * Obtain the following:
 * AWS Cloud practitioner certification
 * AWS Certified Developer Associate certification
