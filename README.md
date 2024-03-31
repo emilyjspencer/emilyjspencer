@@ -25,20 +25,27 @@ System Design
 
 ## Personal goals:
 
-* Improve knowledge of architecture, microservices and system design
-* Systems thinking, design patterns
-* Further C# certifications
-* Obtain the AWS Cloud practitioner certification
-* Obtain the AWS Certified Developer Associate certification
-* Obtain the AWS Data Engineer certification
-* Obtain the AWS Solutions Architect certification
-* Obtain the AWS Certified DevOps Engineer certification
-* Obtain Azure DevOps certification
-* Obtain the DC Data Scientist Associate certificate
-* Obtain the DC Data Scientist Professional certificate
-* Obtain the DC Data Analyst Associate certificate
-* Obtain the DC Data Analyst Professional certificate
-* Obtain the DC Data Engineer Associate certificate
+* Improve knowledge of architecture, microservices, syste design, systems thinking, design patterns
+* Obtain the following:
+* AWS Cloud practitioner certification
+* AWS Certified Developer Associate certification
+* Microsoft Certified Azure Fundamentals
+* Microsoft Certified Azure Developer Associate
+* Docker Certified Associate
+* AWS Data Engineer certification
+* AWS Solutions Architect certification
+* AWS Certified DevOps Engineer certification
+* Azure DevOps certification
+* DC Data Scientist Associate certificate
+* DC Data Scientist Professional certificate
+* DC Data Analyst Associate certificate
+* DC Data Analyst Professional certificate
+* DC Data Engineer Associate certificate
+* Work on the following
+* Personal DevOps projects
+* Personal Angular and .Net applications
+* Contribute to Open Source projects
+* Upload my data engineering projects
 
 ## Education:
 
