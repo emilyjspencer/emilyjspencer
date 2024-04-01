@@ -23,7 +23,7 @@ System Design
 &nbsp;&nbsp;&nbsp;💃A Dancewear app (React and Spring Boot) \
 
 
-## Personal goals:
+## Personal goals (1- 2 years):
 
 * Improve knowledge of architecture, system design, systems thinking, design patterns
 * **Obtain the following:**
@@ -32,16 +32,16 @@ System Design
 * Microsoft Certified Azure Fundamentals
 * Microsoft Certified Azure Developer Associate
 * AWS Data Engineer certification
+* AWS Solutions Architect
 * AWS Certified DevOps Engineer certification
-* DC Data Analyst Associate certificate
-* DC Data Analyst Professional certificate
-* DC Data Engineer Associate certificate
+* DataCamp Data Analyst Associate certificate
+* DataCamp Data Analyst Professional certificate
+* DataCamp Data Engineer Associate certificate
   
 * **Work on the following:**
 * Personal DevOps projects
 * Personal Angular and .Net applications
 * Contribute to Open Source projects
-* Upload data engineering projects
 
 ## Education:
 
