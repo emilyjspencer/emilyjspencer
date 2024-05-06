@@ -39,8 +39,8 @@ System Design
 * DataCamp Data Engineer Associate certificate
   
 * **Work on the following:**
-* Personal DevOps projects
-* Personal Angular and .Net applications
+* Personal DevOps projects 
+* Personal Angular and .Net applications including a self-care app (with the neurodivergent in mind 
 * Contribute to Open Source projects
 
 ## Education:
