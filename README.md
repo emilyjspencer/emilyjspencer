@@ -31,12 +31,10 @@ System Design
 * AWS Certified Developer Associate certification
 * Microsoft Certified Azure Fundamentals
 * Microsoft Certified Azure Developer Associate
-* AWS Data Engineer certification
 * AWS Solutions Architect
-* AWS Certified DevOps Engineer certification
-* DataCamp Data Analyst Associate certificate
-* DataCamp Data Analyst Professional certificate
-* DataCamp Data Engineer Associate certificate
+* CompTIA Security+
+
+
   
 * **Work on the following:**
 * Personal DevOps projects 
