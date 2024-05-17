@@ -25,7 +25,9 @@ System Design
 
 ## Personal goals (1- 2 years):
 
-* Improve knowledge of architecture and architecture pattnerns, system design, systems thinking, design patterns, networking, security
+* Improve knowledge of architecture and architecture patterns, system design, systems thinking, design patterns, networking, security
+
+  
 * **Obtain the following:**
 * AWS Cloud practitioner certification
 * AWS Certified Developer Associate certification
@@ -78,7 +80,7 @@ College Senior Silver Speech and Drama. I competed in various competitions such 
 the Performing Arts, played at various concerts, including local Young musicians and ABRSM High Scorer concerts. I also performed in various dance shows with the Jeanne Bamforth
 School of Dancing.
 
-# Skills gained from experience and self-learning
+# Additional skills
 
 * ReactJS
 * Angular
@@ -92,4 +94,7 @@ School of Dancing.
 * Storybook
 * Jupyter Notebooks
 * Databricks
-Codewars: https://www.codewars.com/users/lajoiedevivre89
+  
+# Codewars: 
+
+https://www.codewars.com/users/lajoiedevivre89
