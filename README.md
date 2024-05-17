@@ -25,7 +25,7 @@ System Design
 
 ## Personal goals (1- 2 years):
 
-* Improve knowledge of architecture, system design, systems thinking, design patterns
+* Improve knowledge of architecture and architecture pattnerns, system design, systems thinking, design patterns, networking, security
 * **Obtain the following:**
 * AWS Cloud practitioner certification
 * AWS Certified Developer Associate certification
