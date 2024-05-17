@@ -80,7 +80,7 @@ College Senior Silver Speech and Drama. I competed in various competitions such 
 the Performing Arts, played at various concerts, including local Young musicians and ABRSM High Scorer concerts. I also performed in various dance shows with the Jeanne Bamforth
 School of Dancing.
 
-# Additional skills
+## Additional skills
 
 * ReactJS
 * Angular
@@ -95,6 +95,6 @@ School of Dancing.
 * Jupyter Notebooks
 * Databricks
   
-# Codewars: 
+## Codewars: 
 
 https://www.codewars.com/users/lajoiedevivre89
