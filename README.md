@@ -11,7 +11,7 @@
 Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit
 
 ## Current focus:
-C#.Net \
+C#.Net \ WCF, PowerShell 
 DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, Geneos, AWS, Azure Devops)\
 System Design
 
