@@ -53,7 +53,7 @@ System Design
 * Testing with RSpec, Jasmine, Capybara
 * Git 
 * SQL
-* EQ and growth mindset, meditation - run by the wonderful Chief Joy Officer at Makers (Dana Svobada). Having a growth mindset is KEY in tech and especially in development.
+* EQ and growth mindset, meditation - run by the wonderful Chief Joy Officer at Makers (Dana Svoboda). Having a growth mindset is KEY in tech and especially in development.
 
 **FDM**
 * Java, Python
