@@ -57,7 +57,7 @@ System Design
 * Heavily project-based work (during the week and weekends) as opposed to lessons (FDM). Hands-on learning is the best way to learn to code.
 
 **FDM**
-* Java, Python
+* Java, Python (3 weeks of pure Java - of increasing complexity - high quality teaching by Nick Lawton and )
 * Spring, Spring Boot, 
 * Business Writing, Presentation skills
 * React
