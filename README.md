@@ -46,7 +46,7 @@ System Design
 ## Education:
 
 **Makers Academy**
-
+* 16 weeks extremely intensive coding bootamp aimed at individuals from non-tech backgrounds. Many grads have non-STEM degrees and have gone on to achieve great success in their careers in development (and beyond).
 * OOP, MVC, OOD, 
 * Ruby, Rails
 * JavaScript
