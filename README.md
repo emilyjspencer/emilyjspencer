@@ -54,6 +54,7 @@ System Design
 * Git 
 * SQL
 * EQ and growth mindset, meditation - run by the wonderful Chief Joy Officer at Makers (Dana Svoboda). Having a growth mindset is KEY in tech and especially in development.
+* Heavily project-based work (during the week and weekends) as opposed to lessons (FDM). Hands-on learning is the best way to learn to code.
 
 **FDM**
 * Java, Python
