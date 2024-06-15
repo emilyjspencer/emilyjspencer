@@ -46,7 +46,7 @@ System Design
 ## Education:
 
 **Makers Academy**
-* 16 weeks extremely intensive coding bootamp aimed at individuals from non-tech backgrounds. Many grads have non-STEM degrees and have gone on to achieve great success in their careers in development (and beyond).
+* 16 weeks extremely intensive coding bootcamp aimed at individuals from non-tech backgrounds. Many grads have non-STEM degrees and have gone on to achieve great success in their careers in development (and beyond).
 * OOP, MVC, OOD, 
 * Ruby, Rails
 * JavaScript
@@ -54,10 +54,11 @@ System Design
 * Git 
 * SQL
 * EQ and growth mindset, meditation - run by the wonderful Chief Joy Officer at Makers (Dana Svoboda). Having a growth mindset is KEY in tech and especially in development.
-* Heavily project-based work (during the week and weekends) as opposed to lessons (FDM). Hands-on learning is the best way to learn to code.
+* Heavily project-based work (during the week and weekends). Hands-on learning is the best way to learn to code.
+* Post graduation, acted as a mentor to several students in 2020 who were going through the bootcamp
 
 **FDM**
-* 12 weeks (Somewhat intensive) training, with assessments at the end of each week
+* 12 weeks (Somewhat intensive) training, predominantly lectures with assessments at the end of each week
 * Java, Python (3 weeks of pure Java - of increasing complexity - high quality teaching by Nick Lawton (Java) and Ian Barbour(Python) )
 * Spring, Spring Boot, 
 * Business Writing, Presentation skills
@@ -67,6 +68,7 @@ System Design
 * JDBC, JPA, JSP
 * JUnit
 * PySpark, Apache Spark
+* Advised and recommended FDM to potential applicant; who ended up in a coding role at Morgan Stanley (APAC)
 
 
 **The University of Sheffield** - BA Modern Languages
