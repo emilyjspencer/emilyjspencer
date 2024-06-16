@@ -15,6 +15,8 @@ C#.Net \ WCF, PowerShell,
 DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, Geneos, AWS, Azure Devops)\
 System Design
 
+Currently working within a vast and complex architecture which constitutes BP's LNG ETRM system. 
+
 ## Previously worked on
 &nbsp;&nbsp;&nbsp;💁 Investment management company's public website & component library  (Angular, RxJS, Jest, Storybook, SCSS, AEM) \
 &nbsp;&nbsp;&nbsp;💁 Two recruitment tools using React and Spring Boot \
