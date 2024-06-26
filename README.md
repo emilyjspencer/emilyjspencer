@@ -33,6 +33,9 @@ Currently working within a vast and complex architecture which constitutes BP's 
 * **Obtain the following:**
 * AWS Cloud practitioner certification
 * AWS Certified Developer Associate certification
+* DataCamp Data Engineer Associate
+* DataCamp Data Engineer
+* DataCamp Data Analyst 
 * Microsoft Certified Azure Fundamentals
 * Microsoft Certified Azure Developer Associate
 * AWS Solutions Architect
