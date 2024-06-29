@@ -5,8 +5,8 @@
 
 ## Previous experience
 &nbsp;&nbsp;&nbsp;💁 Worked on an investment management company's public website & component library  (Angular, RxJS, Jest, Storybook, SCSS, AEM) \
-&nbsp;&nbsp;&nbsp;💁 Led a project to build out a recruitment tool using React, Spring Boot, MySQL, co-led a second project, using the same tech stack, while using Spring Security to implement authentication and authorisation. Helped the team to move away from PowerApps. \
-&nbsp;&nbsp;&nbsp;💁 Worked on two projects, ingesting and manipulating large datasets. Using PySpark to glean useful insights into data and answer questions. Built machine-learning pipelines and end-to-end data pipelines with PySpark \
+&nbsp;&nbsp;&nbsp;💁 Led a project to build out a recruitment tool using React, Spring Boot, MySQL, co-led a second project, using the same tech stack, implementing authentication and authorisation using Spring Security. Designed and implemented all React components for both projects, testing functionality with the help of React Testing Library and Jest. Built out the repository, model and controller layers. Designed databases (MySQL). Wireframing. Helped the second team to move away from a PowerApps implementation. \
+&nbsp;&nbsp;&nbsp;💁 Worked on two projects, ingesting and manipulating large datasets. Using PySpark to glean useful insights into data and answer questions. Built machine-learning pipelines and end-to-end data pipelines with PySpark and MLlib\
 &nbsp;&nbsp;&nbsp;💁 Upskilled in LangChain in preparation for work on an AI-powered Job prep platform (first venture into AI since Makers academy) \
 &nbsp;&nbsp;&nbsp;💃 (Personal (recent project)): A Dancewear app (React and Spring Boot) \
 
