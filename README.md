@@ -3,8 +3,8 @@
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
 &nbsp;&nbsp;&nbsp;🐱‍💻&nbsp;Portfolio: https://64bd59473981b23ce3121793--jocular-lebkuchen-18452d.netlify.app/ \
 
-Looking for volunteering opportunities: that enable me to utilise my coding and teaching skills for good.
-I'm also keen to get involved in DEI initiatives/projects aimed at dismantling systemic ableism against neurodivergent individuals, those with chronic health conditions, ethnic minorities, as well as discrimination against those from challenging and unconventional backgrounds. 
+Looking for volunteering opportunities that enable me to utilise my coding and teaching skills for good.
+I'm also keen to get involved in DEI initiatives/projects aimed at dismantling systemic ableism  and discrimination against neurodivergent individuals, those with chronic health conditions, ethnic minorities, as well as those from challenging and unconventional backgrounds. 
 
 ## Previous experience
 FDM | 
