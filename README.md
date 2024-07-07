@@ -1,6 +1,6 @@
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Software Engineer \
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, cloud and devops, MLOps
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Additional interests: system design, software architecture, algorithmic trading, health tech
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, cloud and devops, MLOps\
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Additional interests: system design, software architecture, algorithmic trading, health tech\
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
 
 
