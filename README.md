@@ -1,10 +1,11 @@
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Full stack developer \
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, cloud and devops, MLOps, algorithmic trading, health tech\
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Software Engineer \
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, cloud and devops, MLOps
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Additional interests: system design, software architecture, algorithmic trading, health tech
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
-&nbsp;&nbsp;&nbsp;🐱‍💻&nbsp;Portfolio: https://64bd59473981b23ce3121793--jocular-lebkuchen-18452d.netlify.app/ \
+
 
 Looking for volunteering opportunities that enable me to utilise my coding and teaching skills for good.
-I'm also keen to get involved in DEI initiatives/projects aimed at dismantling systemic ableism  and discrimination against neurodivergent individuals, those with chronic health conditions, ethnic minorities, as well as those from challenging and unconventional backgrounds. 
+I'm also keen to get involved in DEI initiatives/projects aimed at dismantling systemic ableism  and discrimination against neurodivergent individuals, those with chronic health conditions, ethnic minorities, as well as those from disadvantaged backgrounds. 
 
 ## Previous experience
 FDM | 
