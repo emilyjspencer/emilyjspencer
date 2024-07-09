@@ -20,7 +20,7 @@ Technologies worked with: React, Spring Boot, Python, LangChain, Spring Security
 
 Placements: Morgan Stanley, Vanguard, BP
 
-BP | Technologies working with: C# .Net, Specflow, WCF, WPF, Infragistics, SQL, Splunk, OpenShift, Powershell,  AzureDevOps, Excel, Python \
+BP | Technologies working with: C# .Net, Specflow, WCF, Infragistics, SQL, Splunk, OpenShift, Powershell,  AzureDevOps, Excel, Python \
 Building knowledge of LNG trading and the Energy Trading and Risk Management industry. \ 
 Working within a vast and complex architecture which makes up  BP's LNG ETRM system. \  
 Improving working knowledge of complex software architecture and system design. 
