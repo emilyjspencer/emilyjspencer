@@ -32,7 +32,7 @@ Morgan Stanley | Technologies worked with:  Java, Spring, JUnit. Worked on a rep
 Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit, React, PySpark, Python
 
 ## Current focus:
-C#.Net \ WCF, PowerShell, 
+C#.Net  WCF, PowerShell, 
 DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, Geneos, AWS, Azure Devops)\
 System Design
 
