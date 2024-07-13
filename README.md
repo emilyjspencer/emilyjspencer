@@ -1,5 +1,5 @@
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Software Engineer | Technical Consultant | MBCS \ 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, cloud, devops, system design, software architecture, algorithmic trading and health tech
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, cloud, devops, system design, software architecture, algorithmic trading and health tech \
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning \
 
 
