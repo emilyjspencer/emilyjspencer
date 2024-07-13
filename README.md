@@ -1,6 +1,8 @@
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Software Engineer | Technical Consultant | MBCS  \ 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, cloud, devops, system design, software architecture, algorithmic trading and health tech  \
-&nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning  \
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Software Engineer | Technical Consultant | MBCS  
+
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, cloud, devops, system design, software architecture, algorithmic trading and health tech  
+
+&nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning  
 
 
 Looking for volunteering opportunities that enable me to utilise my coding and teaching skills for good.
@@ -19,9 +21,12 @@ Technologies worked with: React, Spring Boot, Python, LangChain, Spring Security
 
 Placements: Morgan Stanley, Vanguard, BP
 
-BP | Technologies working with: C# .Net, Specflow, WCF, Infragistics, SQL, Splunk, OpenShift, Powershell,  AzureDevOps, Excel, Python \
-Building knowledge of LNG trading and the Energy Trading and Risk Management industry. \ 
-Working within a vast and complex architecture which makes up  BP's LNG ETRM system. \  
+BP | Technologies working with: C# .Net, Specflow, WCF, Infragistics, SQL, Splunk, OpenShift, Powershell,  AzureDevOps, Excel, Python 
+
+Building knowledge of LNG trading and the Energy Trading and Risk Management industry. 
+
+Working within a vast and complex architecture which makes up  BP's LNG ETRM system. 
+
 Improving working knowledge of complex software architecture and system design. 
 
 Vanguard | Technologies worked with:  Angular, Jest, AEM , Storybook, Cypress, GraphQL, SCSS. Worked on an Angular component library and Vanguard's public investor website
