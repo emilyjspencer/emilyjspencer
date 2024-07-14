@@ -5,8 +5,8 @@
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning  
 
 
-Looking for volunteering opportunities that enable me to utilise my coding and teaching skills for good.
-I'm also keen to get involved in DEI initiatives/projects aimed at dismantling systemic ableism  and discrimination against neurodivergent individuals, those with chronic health conditions, ethnic minorities, as well as those from disadvantaged backgrounds. 
+Looking for volunteering opportunities which allow me utilise my coding and teaching skills for good, with a particular interest in secondary school projects/initiatives (having worked at a girls secondary school) I'm especially interested in working with KS3 girls, before they decide on their GCSE options. Uptake of computer science GCSE is still markedly lower than uptake by male students, and the numbers are still falling: 'The number of girls in England studying for a GCSE in computing has more than halved in less than a decade' - source-  https://www.theguardian.com/technology/article/2024/jun/27/number-of-girls-in-england-taking-computing-gcse-plummets-study-finds#:~:text=In%202015%2043%25%20of%20candidates,18%2C600%20females%20took%20computer%20science.
+I'm also keen to get involved in DEI initiatives/projects aimed at marginalised communities
 
 ## Previous experience
 FDM | 
