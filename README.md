@@ -20,7 +20,7 @@ Utilised PySpark to glean useful insights into data and answer questions. Built 
  
 Upskilled in LangChain in preparation for work on an AI-powered Job prep platform (first venture into AI since Makers Academy (where I worked on a financial chatbot using TensorFlow, TFLearn, Python React, NLTK Django)
   
-Technologies worked with: React, Spring Boot, Python, LangChain, Spring Security, JUnit, SQL, React Testing Library, PySpark, Scala, DataBricks, Jest, MLlib, MatPlotLib, Apache Spark. 
+Technologies worked with: React, Spring Boot, Python, LangChain, Spring Security, JUnit, SQL, React Testing Library, PySpark, DataBricks, Jest, MLlib, MatPlotLib, Apache Spark. 
 
 Placements: Morgan Stanley, Vanguard, BP
 
