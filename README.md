@@ -12,17 +12,6 @@ Uptake of computer science GCSE is still markedly lower than uptake by male stud
 I'm also keen to get involved in DEI initiatives/projects aimed at marginalised communities e.g. Code First Girls etc @codefirstgirls
 
 ## Previous experience
-FDM | 
-Led a project to build out a recruitment tool using React, Spring Boot, MySQL, co-led a second project, using the same tech stack, implementing authentication and authorisation using Spring Security. Designed and implemented all React components for both projects, testing functionality with the help of React Testing Library and Jest. Built out the Spring Boot repository, service, model and controller layers. Database structure and design (MySQL). Wireframing. This work enabled the second project team to move away from a PowerApps implementation.
-  
-Worked on two projects, ingesting and manipulating large datasets. 
-Utilised PySpark to glean useful insights into data and answer questions. Built machine-learning pipelines and end-to-end data pipelines with PySpark and MLlib. Gained knowledge of data lakes, data warehouses, data marts, ETL process, ELT, RDDs, DataFrames, parallel processing.
- 
-Upskilled in LangChain in preparation for work on an AI-powered Job prep platform (first venture into AI since Makers Academy (where I worked on a financial chatbot using TensorFlow, TFLearn, Python React, NLTK Django)
-  
-Technologies worked with: React, Spring Boot, Python, LangChain, Spring Security, JUnit, SQL, React Testing Library, PySpark, DataBricks, Jest, MLlib, MatPlotLib, Apache Spark. 
-
-Placements: Morgan Stanley, Vanguard, BP
 
 BP | Technologies working with: C# .Net, Specflow, WCF, Infragistics, SQL, Splunk, OpenShift, Powershell,  AzureDevOps, Excel, Python 
 
@@ -36,8 +25,16 @@ Vanguard | Technologies worked with:  Angular, Jest, AEM , Storybook, Cypress, G
 
 Morgan Stanley | Technologies worked with:  Java, Spring, JUnit. Worked on a repo trading platform.
 
-## Technologies worked with:
-Angular, TypeScript, StoryBook, Jest,  RxJS, AEM, Java, Spring, JUnit, React, PySpark, Python
+FDM | 
+Led a project to build out a recruitment tool using React, Spring Boot, MySQL, co-led a second project, using the same tech stack, implementing authentication and authorisation using Spring Security. Designed and implemented all React components for both projects, testing functionality with the help of React Testing Library and Jest. Built out the Spring Boot repository, service, model and controller layers. Database structure and design (MySQL). Wireframing. This work enabled the second project team to move away from a PowerApps implementation.
+  
+Worked on two projects, ingesting and manipulating large datasets. 
+Utilised PySpark to glean useful insights into data and answer questions. Built machine-learning pipelines and end-to-end data pipelines with PySpark and MLlib. Gained knowledge of data lakes, data warehouses, data marts, ETL process, ELT, RDDs, DataFrames, parallel processing.
+ 
+Upskilled in LangChain in preparation for work on an AI-powered Job prep platform (first venture into AI since Makers Academy (where I worked on a financial chatbot using TensorFlow, TFLearn, Python React, NLTK Django)
+  
+Technologies worked with: React, Spring Boot, Python, LangChain, Spring Security, JUnit, SQL, React Testing Library, PySpark, DataBricks, Jest, MLlib, MatPlotLib, Apache Spark. 
+
 
 ## Current focus:
 C#.Net  WCF, PowerShell, 
@@ -66,8 +63,9 @@ Currently working within a vast and complex architecture which constitutes BP's 
   
 * **Work on the following:**
 * Personal Angular and .Net applications which make use of many of my skills e.g. data pipelines, data visualization, microservices, AI, machine learning pipelines, AWS
-* Personal DevOps projects 
 * Contribute to Open Source
+* Personal DevOps projects 
+
 
 ## Education:
 
