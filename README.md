@@ -13,7 +13,7 @@ I'm also keen to get involved in DEI initiatives/projects aimed at marginalised 
 
 ## Professional experience
 
-###BP |
+### BP |
 Technologies working with: C# .Net, Specflow, WCF, Infragistics, SQL, Splunk, OpenShift, Powershell,  AzureDevOps, Excel, Python 
 
 Building knowledge of LNG trading and the Energy Trading and Risk Management industry. 
@@ -22,13 +22,13 @@ Working within a vast and complex architecture which makes up  BP's LNG ETRM sys
 
 Improving working knowledge of complex software architecture and system design. 
 
-###Vanguard | 
+### Vanguard | 
 Technologies worked with:  Angular, Jest, AEM , Storybook, Cypress, GraphQL, SCSS. Worked on an Angular component library and Vanguard's public investor website
 
-###Morgan Stanley | 
+### Morgan Stanley | 
 Technologies worked with:  Java, Spring, JUnit. Worked on a repo trading platform.
 
-###FDM | 
+### FDM | 
 Led a project to build out a recruitment tool using React, Spring Boot, MySQL, co-led a second project, using the same tech stack, implementing authentication and authorisation using Spring Security. Designed and implemented all React components for both projects, testing functionality with the help of React Testing Library and Jest. Built out the Spring Boot repository, service, model and controller layers. Database structure and design (MySQL). Wireframing. This work enabled the second project team to move away from a PowerApps implementation.
   
 Worked on two projects, ingesting and manipulating large datasets. 
