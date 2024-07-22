@@ -11,7 +11,7 @@ Uptake of computer science GCSE is still markedly lower than uptake by male stud
 
 I'm also keen to get involved in DEI initiatives/projects aimed at marginalised communities e.g. Code First Girls etc @codefirstgirls
 
-## Previous experience
+## Professional experience
 
 BP | Technologies working with: C# .Net, Specflow, WCF, Infragistics, SQL, Splunk, OpenShift, Powershell,  AzureDevOps, Excel, Python 
 
