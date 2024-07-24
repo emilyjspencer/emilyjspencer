@@ -57,9 +57,6 @@ Currently working within a vast and complex architecture which constitutes BP's 
 * AWS Certified Developer Associate certification
 * CompTIA Security+
 * Microsoft Certified Azure Fundamentals
-* DataCamp Data Engineer Associate
-* DataCamp Data Engineer
-* DataCamp Data Analyst 
 * Microsoft Certified Azure Developer Associate
 * AWS Solutions Architect
 
