@@ -1,20 +1,20 @@
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Software Engineer | Technical Consultant | MBCS  
 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, cloud, devops, system design, software architecture, algorithmic trading and health tech  
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, system design, software architecture
+
+&nbsp;&nbsp;&nbsp🧠🧠 Looking to get involved in DEI initiatives/projects (with a particular interest in mental health and neurodivergence).
 
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning  
 
 
-Looking for volunteering opportunities which allow me utilise my coding and teaching skills for good, with a particular interest in secondary school projects/initiatives (having worked at a girls secondary school (and from a multi-generational family of educators - my mother is a retired secondary school science teacher, her mother was a maths teacher) I'm especially interested in working with KS3 female students, before their GCSE options are set in stone. 
+Looking for volunteering opportunities which allow me to utilise my skills for good, with a particular interest in secondary school projects/initiatives (having worked at a girls secondary school (and from a multi-generational family of educators - my mother is a retired secondary school science teacher, her mother was a maths teacher) I'm especially interested in working with KS3 female students, before their GCSE options are set in stone. 
 
 Uptake of computer science GCSE is still markedly lower than uptake by male students, and the numbers are still falling: 'The number of girls in England studying for a GCSE in computing has more than halved in less than a decade' - source-  https://www.theguardian.com/technology/article/2024/jun/27/number-of-girls-in-england-taking-computing-gcse-plummets-study-finds#:~:text=In%202015%2043%25%20of%20candidates,18%2C600%20females%20took%20computer%20science.
-
-I'm also keen to get involved in DEI initiatives/projects aimed at marginalised communities e.g. Code First Girls etc @codefirstgirls
 
 ## Professional experience
 
 ### BP |
-Technologies working with: C# .Net, Specflow, WCF, Infragistics, SQL, Splunk, OpenShift, Powershell,  AzureDevOps, Excel, Python 
+Technologies working with: C# .Net, Specflow, NUnit, Moq, Entity Framework Core, WCF, Infragistics, SQL, Splunk, OpenShift, Powershell,  AzureDevOps, Excel, Python 
 
 Building knowledge of LNG trading and the Energy Trading and Risk Management industry. 
 
