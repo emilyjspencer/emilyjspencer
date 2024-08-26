@@ -63,6 +63,7 @@ Currently working within a vast and complex architecture which constitutes BP's 
   
 * **Work on the following:**
 * Personal Angular and .Net applications which make use of many of my skills e.g. data pipelines, data visualization, microservices, AI, machine learning pipelines, AWS
+* Depression Buddy
 * Contribute to Open Source
 * Personal DevOps projects 
 
