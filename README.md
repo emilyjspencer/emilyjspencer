@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, system design, software architecture
 
-&nbsp;&nbsp;&nbsp🧠🧠 Looking to get involved in DEI initiatives/projects (with a particular interest in mental health and neurodivergence).
+&nbsp;&nbsp;&nbsp;🧠🧠 Looking to get involved in DEI initiatives/projects (with a particular interest in mental health and neurodivergence).
 
 &nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning  
 
