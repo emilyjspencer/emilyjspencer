@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development and data.
 
-&nbsp;&nbsp;➕&nbsp;While I greatly enjoy coding, I'm passionate about data (undertaking additional data engineering training in 2023 which I supplemented with my own learning. Therefore, some of my focus aside from LNG trading, c# .net and Python will be on building a data portfolio, while completing the Google Data Analytics Certificate, DataCamp Data Analyst certificate, and DataCamp Data Engineer Certificate.
+&nbsp;&nbsp;➕&nbsp;While I greatly enjoy coding, I'm also passionate about data (undertaking additional data engineering training in 2023 which I supplemented with my own learning. Therefore, some of my focus aside from LNG trading, c# .net and Python will be on building a data portfolio, while completing the Google Data Analytics Certificate, DataCamp Data Analyst certificate, and DataCamp Data Engineer Certificate.
 
 ## Professional experience
 
@@ -34,15 +34,15 @@ Technologies worked with: React, Spring Boot, Python, LangChain, Spring Security
 
 ## Current focus:
 C#.Net  WCF, PowerShell, 
-DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, Geneos, AWS, Azure Devops)\
+DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, AWS, Azure Devops)\
 System Design, Python
 
-Currently working within a vast and complex architecture which constitutes BP's LNG ETRM system.
+Currently working within a vast and complex architecture which constitutes BP's LNG ETRM system and building working knowledge of the LNG industry.
 
 
 ## Personal goals (1- 2 years):
 
-* Improve knowledge of architecture and design patterns, system design, systems thinking, networking, security
+* Improve knowledge of architecture and design patterns, system design, systems thinking, networking, security (in addition to learning the ins and outs of LNG trading and building a data portfolio)
 
   
 * **Obtain the following:**
