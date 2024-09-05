@@ -1,6 +1,6 @@
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Software Engineer | Technical Consultant | MBCS  
 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development, data, system design, software architecture
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development and data. 
 
 &nbsp;&nbsp;&nbsp;🧠🧠 Looking to get involved in DEI initiatives/projects (with a particular interest in mental health and neurodivergence).
 
@@ -42,30 +42,29 @@ Technologies worked with: React, Spring Boot, Python, LangChain, Spring Security
 ## Current focus:
 C#.Net  WCF, PowerShell, 
 DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, Geneos, AWS, Azure Devops)\
-System Design
+System Design, Python
 
 Currently working within a vast and complex architecture which constitutes BP's LNG ETRM system.
 
 
 ## Personal goals (1- 2 years):
 
-* Improve knowledge of architecture and architecture patterns, system design, systems thinking, design patterns, networking, security
+* Improve knowledge of architecture and design patterns, system design, systems thinking, networking, security
 
   
 * **Obtain the following:**
 * AWS Cloud practitioner certification
+* DataCamp Data Engineer Associate Certification
+* Data Analyst Associate Certification
 * AWS Certified Developer Associate certification
 * CompTIA Security+
 * Microsoft Certified Azure Fundamentals
-* Microsoft Certified Azure Developer Associate
-* AWS Solutions Architect
 
   
 * **Work on the following:**
 * Personal Angular and .Net applications which make use of many of my skills e.g. data pipelines, data visualization, microservices, AI, machine learning pipelines, AWS
-* Depression Buddy
 * Contribute to Open Source
-* Personal DevOps projects 
+* Data projects 
 
 
 ## Education:
