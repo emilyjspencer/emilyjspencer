@@ -1,12 +1,8 @@
-&nbsp;&nbsp;&nbsp;🌟&nbsp;Software Engineer | Software Analyst | Technical Consultant | MBCS  
+&nbsp;&nbsp;&nbsp;🌟&nbsp;Software Engineer | Software Analyst | Technical Consultant | MBCS | Currently working in LNG Trading
 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development and data.
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development and data.
 
-&nbsp;&nbsp;➕&nbsp;While I greatly enjoy coding, I'm also something of a bit of a maths geek who loves data (I undertook some additional data engineering training in 2023, which I hugely enjoyed). Therefore, some of my focus will be on building a data portfolio and completing the Google Data Analytics Certificate, DataCamp Data Analyst certificate, and DataCamp Data Engineer Certificate.
-
-&nbsp;&nbsp;🧠🧠&nbsp; Looking to get involved in DEI initiatives/projects (with a particular interest in mental health and neurodivergence).
-
-
+&nbsp;&nbsp;➕&nbsp;While I greatly enjoy coding, I'm passionate about data (undertaking additional data engineering training in 2023 which I supplemented with my own learning. Therefore, some of my focus aside from LNG trading, c# .net and Python will be on building a data portfolio, while completing the Google Data Analytics Certificate, DataCamp Data Analyst certificate, and DataCamp Data Engineer Certificate.
 
 ## Professional experience
 
