@@ -1,6 +1,7 @@
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Software Engineer | Technical Consultant | MBCS  
 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development and data. 
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development and data.
+While I greatly enjoy coding, I'm also extremely interested in data (undertook some additional data engineering traing, which I hugely enjoyed). Therefore some of my focus will be on building a data portfolio and completing the Google Data Analytics Certificate.
 
 &nbsp;&nbsp;&nbsp;🧠🧠 Looking to get involved in DEI initiatives/projects (with a particular interest in mental health and neurodivergence).
 
