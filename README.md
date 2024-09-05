@@ -2,11 +2,11 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, a passion for problem-solving and an interest in development and data.
 
-&nbsp;&nbsp;&nbsp;➕;While I greatly enjoy coding, I'm also something of a bit of a maths geek and find myself interested in data (I undertook some additional data engineering training in 2023, which I hugely enjoyed). Therefore, some of my focus will be on building a data portfolio and completing the Google Data Analytics Certificate, DataCamp Data Analyst certificate, and DataCamp Data Engineer Certificate.
+&nbsp;&nbsp;➕&nbsp;While I greatly enjoy coding, I'm also something of a bit of a maths geek and find myself interested in data (I undertook some additional data engineering training in 2023, which I hugely enjoyed). Therefore, some of my focus will be on building a data portfolio and completing the Google Data Analytics Certificate, DataCamp Data Analyst certificate, and DataCamp Data Engineer Certificate.
 
-&nbsp;&nbsp;&nbsp;🧠🧠 Looking to get involved in DEI initiatives/projects (with a particular interest in mental health and neurodivergence).
+&nbsp;&nbsp;🧠🧠&nbsp; Looking to get involved in DEI initiatives/projects (with a particular interest in mental health and neurodivergence).
 
-&nbsp;&nbsp;&nbsp;💃&nbsp;When I'm not coding, I enjoy working out, dancing, playing piano, reading, learning  
+
 
 ## Professional experience
 
