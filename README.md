@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development and data.
 
-&nbsp;&nbsp;➕&nbsp;While I greatly enjoy coding, I'm also passionate about data (undertaking additional data engineering training in 2023 which I supplemented with my own learning. Therefore, some of my focus aside from LNG trading, c# .net and Python will be on building a data portfolio, while completing the Google Data Analytics Certificate, DataCamp Data Analyst certificate, and DataCamp Data Engineer Certificate.
+&nbsp;&nbsp;➕&nbsp;While I greatly enjoy coding, I'm also passionate about data (undertaking additional data engineering training in 2023 which I supplemented with my own learning. Therefore, some of my focus aside from LNG trading, C# .net and Python will be on building a data portfolio, while completing data-related certifications, gaining experience in the use of Python for analytics, time series forecasting etc 
 
 ## Professional experience
 
