@@ -63,20 +63,15 @@ Currently working within a vast and complex architecture which constitutes BP's 
 ## Education:
 
 **Makers Academy**
-* 16 weeks extremely intensive coding bootcamp aimed at individuals from non-tech backgrounds. Many grads have non-STEM degrees and have gone on to achieve great success in their careers in development (and beyond).
 * OOP, MVC, OOD, 
 * Ruby, Rails
 * JavaScript
 * Testing with RSpec, Jasmine, Capybara
 * Git 
 * SQL
-* EQ and growth mindset, meditation - run by the wonderful Chief Joy Officer at Makers (Dana Svoboda). Having a growth mindset is KEY in tech and especially in development.
-* Heavily project-based work (during the week and weekends). Hands-on learning is the best way to learn to code.
-* Post graduation, acted as a mentor to several students who were in the process of going through the bootcamp.
 
 **FDM**
-* 12 weeks (Somewhat intensive) training, predominantly lectures with assessments at the end of each week
-* Java, Python (3 weeks of pure Java - of increasing complexity - high quality teaching by Nick Lawton (Java) and Ian Barbour(Python) )
+* Java Python
 * Spring, Spring Boot, 
 * Business Writing, Presentation skills
 * React
@@ -85,7 +80,6 @@ Currently working within a vast and complex architecture which constitutes BP's 
 * JDBC, JPA, JSP
 * JUnit
 * PySpark, Apache Spark
-* While on-site, having passed two interviews with Morgan Stanley, advised and recommended FDM to potential applicant. The individual ended up in a coding role at Morgan Stanley (APAC)
 
 
 **The University of Sheffield** - BA Modern Languages
