@@ -2,8 +2,6 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development and data.
 
-&nbsp;&nbsp;➕&nbsp;While I greatly enjoy coding, I'm also passionate about data (undertaking additional data engineering training in 2023 which I supplemented with my own learning. Therefore, some of my focus aside from LNG trading, C# .net and Python will be on building a data portfolio, while completing data-related certifications, gaining experience in the use of Python for analytics, time series forecasting etc 
-
 ## Professional experience
 
 ### BP |
@@ -46,14 +44,14 @@ Currently working within a vast and complex architecture which constitutes BP's 
 
   
 * **Obtain the following:**
+* CompTIA Network+
+* CompTIA Security+
+* AWS Certified Developer Associate certification
+* Microsoft Certified Azure Fundamentals
 * AWS Cloud practitioner certification
 * DataCamp Data Engineer Associate Certification
 * Data Analyst Associate Certification
-* AWS Certified Developer Associate certification
-* CompTIA Security+
-* Microsoft Certified Azure Fundamentals
 
-  
 * **Work on the following:**
 * Personal Angular and .Net applications which make use of many of my skills e.g. data pipelines, data visualization, microservices, AI, machine learning pipelines, AWS
 * Contribute to Open Source
