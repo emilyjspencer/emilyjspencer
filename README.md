@@ -1,5 +1,4 @@
 [![An image of @emilyjspencer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emilyjspencer)](https://holopin.io/@emilyjspencer)
-cm1qowh2c10620cl9utm8wuyo
 
 &nbsp;&nbsp;&nbsp;🌟&nbsp;Software Engineer | Software Analyst | Technical Consultant | MBCS | JavaScript, C#, Python
 
