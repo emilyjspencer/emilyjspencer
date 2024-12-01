@@ -46,16 +46,18 @@ Currently working within a vast and complex architecture which constitutes BP's 
 
   
 * **Obtain the following:**
+* AWS Cloud practitioner certification
+* AWS Certified Developer Associate certification
 * CompTIA Network+
 * CompTIA Security+
-* AWS Certified Developer Associate certification
 * Microsoft Certified Azure Fundamentals
-* AWS Cloud practitioner certification
 * DataCamp Data Engineer Associate Certification
 * Data Analyst Associate Certification
 
 * **Work on the following:**
-* Personal Angular and .Net applications which make use of many of my skills e.g. data pipelines, data visualization, microservices, AI, machine learning pipelines, AWS
+* Angular and .Net applications
+* apps with a microservice architecture, message broker etc
+* build a load balancer
 * Contribute to Open Source
 * Data projects 
 
