@@ -2,7 +2,7 @@
 
 [![An image of @emilyjspencer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emilyjspencer)](https://holopin.io/@emilyjspencer)
 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development and data.
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, devops, cloud, infrastructure and security.
 
 ## Professional experience
 
