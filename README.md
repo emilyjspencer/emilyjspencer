@@ -42,17 +42,21 @@ Currently working within a vast and complex architecture which constitutes BP's 
 
 ## Personal goals (1- 2 years):
 
-* Improve knowledge of architecture and design patterns, system design, systems thinking, networking, security (in addition to learning the ins and outs of LNG trading and building a data portfolio)
+* Improve knowledge of architecture and design patterns, system design, systems thinking, networking, security (in addition to building a data portfolio)
+* Learn Scala
 
   
 * **Obtain the following:**
-* AWS Cloud practitioner certification
-* AWS Certified Developer Associate certification
-* CompTIA Network+
-* CompTIA Security+
+
+* DP-203: Azure Data Engineer Associate
 * Microsoft Certified Azure Fundamentals
 * DataCamp Data Engineer Associate Certification
+* CompTIA Network+
+* CompTIA Security+
 * Data Analyst Associate Certification
+
+* (* AWS Cloud practitioner certification (
+* AWS Certified Developer Associate certification)
 
 * **Work on the following:**
 * Angular and .Net applications
