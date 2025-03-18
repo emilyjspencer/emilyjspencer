@@ -32,14 +32,6 @@ Upskilled in LangChain in preparation for work on an AI-powered Job prep platfor
 Technologies worked with: React, Spring Boot, Python, LangChain, Spring Security, JUnit, SQL, React Testing Library, PySpark, DataBricks, Jest, MLlib, MatPlotLib, Apache Spark. 
 
 
-## Current focus:
-C#.Net  WCF, PowerShell, 
-DevOps tooling, Cloud & Infrastructure (Docker, Kubernetes, OpenShift, Splunk, AWS, Azure Devops)\
-System Design, Python
-
-Currently working within a vast and complex architecture which constitutes BP's LNG ETRM system and building working knowledge of the LNG industry.
-
-
 ## Personal goals (1- 2 years):
 
 
