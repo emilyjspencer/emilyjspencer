@@ -44,6 +44,7 @@ Currently working within a vast and complex architecture which constitutes BP's 
 
 * Improve knowledge of architecture and design patterns, system design, systems thinking, networking, security (in addition to building a data portfolio)
 * Learn Scala
+* CFG ambassador
 
   
 * **Obtain the following:**
