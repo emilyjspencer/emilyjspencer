@@ -42,12 +42,15 @@ Currently working within a vast and complex architecture which constitutes BP's 
 
 ## Personal goals (1- 2 years):
 
+
 * Improve knowledge of architecture and design patterns, system design, systems thinking, networking, security (in addition to building a data portfolio)
 * Learn Scala
 * CFG ambassador
 
+
   
-* **Obtain the following:**
+* **Obtain the following certs:**
+
 
 * DP-203: Azure Data Engineer Associate
 * Microsoft Certified Azure Fundamentals
