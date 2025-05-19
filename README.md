@@ -34,6 +34,17 @@
 
 ## Education:
 
+**Code First Girls**
+* Docker & Kubernetes
+* Product Discovery, Design Thinking, Systems Thinking, Domain-Driven Design
+* Product Design, BDD, TDD, Cucumber
+* Nginx, GitHub Actions, CI/CD pipelines
+* Software architecture, microservices
+* Data Engineering
+* DevSecops
+* Monitoring, Prometheus, Grafana
+* MongoDB, Strawberry GraphQL
+
 **Makers Academy**
 * OOP, MVC, OOD, 
 * Ruby, Rails
