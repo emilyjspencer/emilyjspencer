@@ -1,7 +1,7 @@
 
 ![test](fleurs.png)
 
-&nbsp;&nbsp;&nbsp;🌟&nbsp;Software Engineer | Technical Consultant | MBCS | JavaScript, C#, Python | Specialising in data engineering
+&nbsp;&nbsp;&nbsp;🌟&nbsp;Software Engineer | Technical Consultant | MBCS | JavaScript, C#, Python 
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, devops, infrastructure and security.
 
