@@ -1,6 +1,6 @@
 &nbsp;&nbsp;&nbsp;🌟&nbsp;Software Engineer | Technical Consultant | MBCS | JavaScript, C#, Python | Specialising in data engineering
 
-![test](peach.png)
+![test](fleurs.png)
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, devops, cloud, infrastructure and security.
 
@@ -8,8 +8,8 @@
 
 **Code First Girls**
 * Docker & Kubernetes
-* Product Discovery, Design Thinking, Systems Thinking, Domain-Driven Design
-* Product Design, BDD, TDD, Cucumber
+* Product Discovery, Design Thinking, Systems Thinking, Domain-Driven Design, Architectural Design, Communication patterns
+* Product Design, BDD, TDD, Cucumber, Cloud Native
 * Nginx, GitHub Actions, CI/CD pipelines
 * Software architecture, microservices
 * Data Engineering
