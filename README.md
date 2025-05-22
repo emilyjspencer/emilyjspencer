@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;🌟&nbsp;Software Engineer | Technical Consultant | MBCS | JavaScript, C#, Python 
 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, devops, infrastructure and security.
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;Versatile individual, a self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, security and machine learning.
 
 ## Education:
 
@@ -51,6 +51,10 @@ ABRSM Grade 8 piano, ABRSM Grade 5 violin, RAD Grade 6 ballet, ISTD Grade 6 mode
 College Senior Silver Speech and Drama. I competed in various competitions such as Richmond Upon Thames Festival of the Performing Arts and Kingston Upon Thames Festival of
 the Performing Arts, played at various concerts, including local Young musicians and ABRSM High Scorer concerts. I also performed in various dance shows with the Jeanne Bamforth
 School of Dancing.
+
+## Currently working on:
+
+**Revisiting PySpark, Spark, MLlib, and learning Scala
 
 
 ## Personal goals (1- 2 years):
