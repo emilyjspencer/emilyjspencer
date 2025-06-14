@@ -11,11 +11,11 @@
 * Docker & Kubernetes
 * Product Discovery, Design Thinking, Systems Thinking, Domain-Driven Design, Architectural Thinking, Communication patterns
 * Product Design, BDD, TDD, Cucumber, Cloud Native
-* Nginx, GitHub Actions, CI/CD pipelines
+* Nginx, GitHub Actions, CI/CD pipelines, GitLab
 * Software architecture, microservices
-* Data Engineering
+* Data Engineering, Scala, Spark, PySpark
 * DevSecops
-* Monitoring, Prometheus, Grafana
+* Monitoring, Prometheus, Grafana, OpenTelemetry, Jaeger
 * MongoDB, Strawberry GraphQL
 
 **Makers Academy**
