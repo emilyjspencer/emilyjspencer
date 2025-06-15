@@ -13,10 +13,11 @@
 * Product Design, BDD, TDD, Cucumber, Cloud Native
 * Nginx, GitHub Actions, CI/CD pipelines, GitLab
 * Software architecture, microservices
-* Data Engineering, Scala, Spark, PySpark
-* DevSecops
-* Monitoring, Prometheus, Grafana, OpenTelemetry, Jaeger
+* Data Engineering, Spark, PySpark
+* DevSecops, Debbuging
+* Monitoring, Prometheus, Grafana, OpenTelemetry, Jaeger Distributed Tracing
 * MongoDB, Strawberry GraphQL
+* JavaScript, React, NodeJS, Express, Flask, FastAPI, Java, Spring Boot, Python, Scala
 
 **Makers Academy**
 * OOP, MVC, OOD, 
