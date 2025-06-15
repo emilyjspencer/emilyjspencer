@@ -18,6 +18,7 @@
 * Monitoring, Prometheus, Grafana, OpenTelemetry, Jaeger, Distributed Tracing
 * MongoDB, Strawberry GraphQL
 * JavaScript, React, NodeJS, Express, Flask, FastAPI, Java, Spring Boot, Python, Scala
+* Cypress, JUnit, React Testing Library, Jest, PyTest
 
 **Makers Academy**
 * OOP, MVC, OOD, 
