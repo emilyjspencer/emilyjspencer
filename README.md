@@ -14,8 +14,8 @@
 * Nginx, GitHub Actions, CI/CD pipelines, GitLab
 * Software architecture, microservices
 * Data Engineering, Spark, PySpark
-* DevSecops, Debbuging
-* Monitoring, Prometheus, Grafana, OpenTelemetry, Jaeger Distributed Tracing
+* DevSecops, Debbuging, Error Handling, Logging
+* Monitoring, Prometheus, Grafana, OpenTelemetry, Jaeger, Distributed Tracing
 * MongoDB, Strawberry GraphQL
 * JavaScript, React, NodeJS, Express, Flask, FastAPI, Java, Spring Boot, Python, Scala
 
