@@ -13,10 +13,10 @@
 * Product Design, BDD, TDD, Cucumber, Cloud Native
 * Nginx, GitHub Actions, CI/CD pipelines, GitLab
 * Software architecture, microservices
-* Data Engineering, Spark, PySpark
+* Data Engineering, Spark, PySpark, MLLib, Machine Learning
 * DevSecops, Debbuging, Error Handling, Logging
 * Monitoring, Prometheus, Grafana, OpenTelemetry, Jaeger, Distributed Tracing
-* MongoDB, Strawberry GraphQL
+* MongoDB, Strawberry GraphQL, DE&I
 * JavaScript, React, NodeJS, Express, Flask, FastAPI, Java, Spring Boot, Python, Scala
 * Cypress, JUnit, React Testing Library, Jest, PyTest
 
