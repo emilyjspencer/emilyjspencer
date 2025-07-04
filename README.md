@@ -85,21 +85,6 @@ School of Dancing.
 * Contribute to Open Source
 * Data projects 
 
-
-## Additional skills
-
-* ReactJS
-* Angular
-* SCSS
-* Jest
-* RxJS
-* React Testing Library
-* GraphQL
-* AEM
-* Cypress
-* Storybook
-* Jupyter Notebooks
-* Databricks
   
 ## Codewars: 
 
