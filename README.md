@@ -55,6 +55,15 @@ College Senior Silver Speech and Drama. I competed in various competitions such 
 the Performing Arts, played at various concerts, including local Young musicians and ABRSM High Scorer concerts. I also performed in various dance shows with the Jeanne Bamforth
 School of Dancing.
 
+## Goals
+Obtain the following:
+* PCPP1™ – Certified Professional Python Programmer Level 1
+* PCPP2™ – Certified Professional Python Programming Level 2
+* Oracle Certified Professional, Java SE 8 Programmer
+
+* CFG ambassador
+* Scala open source
+
 ## Codewars: 
 
 https://www.codewars.com/users/lajoiedevivre89
