@@ -61,7 +61,10 @@ Obtain the following:
 * PCPP2™ – Certified Professional Python Programming Level 2
 * Oracle Certified Professional, Java SE 8 Programmer
 * Microsoft Certified: Azure Data Scientist Associate
+* Databricks Certified Data Engineer
 * Databricks Certified Machine Learning Professional
+* Google Certified Data Engineer
+* Google Certified Machine Learning Engineer
 * DataCamp Python Data Associate Certification
 * eCornell Machine Learning Certificate
   
