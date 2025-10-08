@@ -5,6 +5,8 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, machine learning, quantitative finance, security, trading and GIS.
 
+Currently reading 📖: Designing Data-Intensive Applicaions (Martin Kleppman)
+
 ## Education:
 
 **Code First Girls**
