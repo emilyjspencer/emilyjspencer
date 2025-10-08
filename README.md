@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, machine learning, quantitative finance, security, trading and GIS.
 
-v&nbsp;&nbsp;&nbsp;📖&nbsp Currently reading: Designing Data-Intensive Applications (Martin Kleppman)
+&nbsp;&nbsp;&nbsp;📖&nbsp; Currently reading: Designing Data-Intensive Applications (Martin Kleppman)
 
 ## Education:
 
