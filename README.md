@@ -73,6 +73,8 @@ Obtain the following:
 * CFG ambassador
 * Scala open source
 * Learn Kotlin (for android development)
+* Learn Terraform
+* RAG
 
 ## Codewars: 
 
