@@ -58,6 +58,7 @@ the Performing Arts, played at various concerts, including local Young musicians
 School of Dancing.
 
 ## Goals
+
 ***Certs***
 Obtain the following:
 * PCPP1™ – Certified Professional Python Programmer Level 1
@@ -71,10 +72,12 @@ Obtain the following:
 * DataCamp Python Data Associate Certification
 * eCornell Machine Learning Certificate
 * Scala certs if exist
-* ***Giving back**
+  
+***Giving back***
 * CFG ambassador
 * Scala open source
-* ***Upskilling***
+  
+***Upskilling***
 * Learn Kotlin (for android development)
 * Learn Terraform
 * RAG
