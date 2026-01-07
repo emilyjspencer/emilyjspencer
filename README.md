@@ -82,7 +82,8 @@ Obtain the following:
 * Learn Terraform
 * RAG
 * Maths for machine learning <3
-* *** Portfolio
+
+***Portfolio**
 * Add more projects spanning FE, BE, data engineering, ML, AI engineering
 
 ## Codewars: 
