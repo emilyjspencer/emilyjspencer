@@ -69,9 +69,10 @@ Obtain the following:
 * Google Certified Machine Learning Engineer
 * DataCamp Python Data Associate Certification
 * eCornell Machine Learning Certificate
-  
+* Scala certs if exist
 * CFG ambassador
 * Scala open source
+* Learn Kotlin (for android development)
 
 ## Codewars: 
 
