@@ -76,6 +76,8 @@ Obtain the following:
 ***Giving back***
 * CFG ambassador
 * Scala open source
+* QGIS open source
+* Women in coding community
   
 ***Upskilling***
 * Learn Kotlin (for android development)
