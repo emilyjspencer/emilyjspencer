@@ -1,7 +1,7 @@
 
 ![test](fleurs.png)
 
-&nbsp;&nbsp;&nbsp;🌟&nbsp;Polyglot Programmer. From Modern Languages to Tech 
+&nbsp;&nbsp;&nbsp;🌟&nbsp;Polyglot Programmer. From Modern Languages to Tech   Code First Girls Ambassador <3 <3 <3
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, machine learning, quantitative finance, security, trading and GIS.
 
