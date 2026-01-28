@@ -1,7 +1,7 @@
 
 ![test](fleurs.png)
 
-&nbsp;&nbsp;&nbsp;🌟&nbsp;Polyglot Programmer. From Modern Languages to Tech   Code First Girls Ambassador <3 <3 <3
+&nbsp;&nbsp;&nbsp;🌟&nbsp;Polyglot Programmer. From Modern Languages to Tech   Code First Girls Ambassador 💗💗💗💗💗💗💗💗💗💗💗
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, machine learning, quantitative finance, security, trading and GIS.
 
@@ -51,7 +51,7 @@ theatre company
 **A Levels**: Maths, Biology, French, German
 **AS Level**: Economics
 
-**Extra-curricular**:
+**Extra-curricular**: 💃🎹🎻🎭
 ABRSM Grade 8 piano, ABRSM Grade 5 violin, RAD Grade 6 ballet, ISTD Grade 6 modern dance, ISTD Grade 6 tap dance - through the Jeanne Bamforth School of Dancing, Victoria 
 College Senior Silver Speech and Drama. I competed in various competitions such as Richmond Upon Thames Festival of the Performing Arts and Kingston Upon Thames Festival of
 the Performing Arts, played at various concerts, including local Young musicians and ABRSM High Scorer concerts. I also performed in various dance shows with the Jeanne Bamforth
@@ -74,7 +74,7 @@ Obtain the following:
 * Scala certs if exist
   
 ***Giving back***
-* CFG ambassador
+* CFG ambassador ☑️
 * Scala open source
 * QGIS open source
 * Women in coding community
