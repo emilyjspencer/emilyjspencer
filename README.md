@@ -87,6 +87,7 @@ Obtain the following:
 
 ***Portfolio**
 * Add more projects spanning FE, BE, data engineering, ML, AI engineering
+* Lagos Intelligence Platform. Following a recent trip to Lagos, Nigeria and experiencing first-hand the intense traffic, the knock-on effects of flooding and road closures, widespread congestion, and high levels of pollution I plan to build a real-time geospatial dashboard that analyzes data such as traffic, air quality etc. 
 
 ## Codewars: 
 
