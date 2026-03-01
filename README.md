@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;🌟&nbsp;Polyglot Programmer. From Modern Languages to Tech   Code First Girls Ambassador 💗💗💗💗💗💗💗💗💗💗💗
 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in development, data, machine learning, quantitative finance, security, trading and GIS.
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in back-end development, data, machine learning, trading and GIS.
 
 &nbsp;&nbsp;&nbsp;📖&nbsp; Currently reading: Designing Data-Intensive Applications (Martin Kleppman)
 
@@ -80,10 +80,13 @@ Obtain the following:
 * Women in coding community
   
 ***Upskilling***
-* Learn Kotlin (for android development)
+* Akka
+* Kafka
+* Play framework (Scala)
 * Learn Terraform
 * RAG
 * Maths for machine learning <3
+* * Learn Kotlin (for android development)
 
 ***Portfolio**
 * Add more projects spanning FE, BE, data engineering, ML, AI engineering, with some integrating geospatial components, for example
