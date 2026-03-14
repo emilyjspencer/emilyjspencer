@@ -83,10 +83,10 @@ Obtain the following:
 * Apache Akka
 * Kafka
 * Play framework (Scala)
-* Learn Terraform
+* Terraform
 * RAG
-* Maths for machine learning <3
-* Learn Kotlin (for android development)
+* Maths for machine learning and algos. (At times in my career, I've sadly encountered assumptions (always from sales/delivery) that humanities graduates cannot excel in or be interested in maths).
+
 
 ***Portfolio**
 * Add more projects spanning FE, BE, data engineering, ML, AI engineering, with some integrating geospatial components, for example
