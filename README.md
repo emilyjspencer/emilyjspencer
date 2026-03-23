@@ -52,10 +52,7 @@ theatre company
 **AS Level**: Economics
 
 **Extra-curricular**: 💃🎹🎻🎭
-ABRSM Grade 8 piano, ABRSM Grade 5 violin, RAD Grade 6 ballet, ISTD Grade 6 modern dance, ISTD Grade 6 tap dance - through the Jeanne Bamforth School of Dancing, Victoria 
-College Senior Silver Speech and Drama. I competed in various competitions such as Richmond Upon Thames Festival of the Performing Arts and Kingston Upon Thames Festival of
-the Performing Arts, played at various concerts, including local Young musicians and ABRSM High Scorer concerts. I also performed in various dance shows with the Jeanne Bamforth
-School of Dancing.
+ABRSM Grade 1 - 8 piano, ABRSM Grade 1- 5 violin, RAD primary - Grade 6 ballet, ISTD pre-primary - Grade 6 modern dance, pre-primary - ISTD Grade 6 tap dance - through the Jeanne Bamforth School of Dancing, Victoria College Grade 6 -> Senior Silver Speech and Drama. Competed in various competitions i.e Richmond Upon Thames Festival of the Performing Arts and Kingston Upon Thames Festival of the Performing Arts, played at various concerts, e.g. local Young Musician and ABRSM High Scorer concerts. Performed in various dance shows and musicals. ABRSM Music Performance Diploma (withdrew).
 
 ## Goals
 
@@ -85,8 +82,7 @@ Obtain the following:
 * Play framework (Scala)
 * Terraform
 * RAG
-* Maths for machine learning and algos. (At times in my career, I've sadly encountered assumptions (always from sales/delivery) that humanities graduates cannot excel in or be interested in maths).
-
+* Maths for machine learning and algos.
 
 ***Portfolio**
 * Add more projects spanning FE, BE, data engineering, ML, AI engineering, with some integrating geospatial components, for example
