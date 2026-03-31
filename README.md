@@ -5,9 +5,9 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in back-end development, data, machine learning, trading and GIS.
 
-&nbsp;&nbsp;&nbsp;📖&nbsp; Currently reading: Designing Data-Intensive Applications (Martin Kleppman)
-Functional Programming in Scala (Paul Chiusano)
-High-performance Spark (Holden Karau)
+&nbsp;&nbsp;&nbsp;📖&nbsp; Currently reading: * Designing Data-Intensive Applications (Martin Kleppman)
+* Functional Programming in Scala (Paul Chiusano)
+* High-performance Spark (Holden Karau)
 
 ## Education:
 
