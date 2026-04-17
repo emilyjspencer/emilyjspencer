@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;🌟&nbsp;Polyglot Programmer. From Modern Languages to Tech | Code First Girls Ambassador 💗💗💗💗💗💗💗💗💗💗💗
 
-&nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in back-end development, data, machine learning, trading and GIS.
+&nbsp;&nbsp;&nbsp;👩‍💻&nbsp; Self starter with an aptitude for learning, mathematically minded, a passion for problem-solving and an interest in back-end development, data, machine learning, GIS, quantitative finance and trading.
 
 &nbsp;&nbsp;&nbsp;📖&nbsp; **Currently reading**: 
 * Designing Data-Intensive Applications (Martin Kleppman)
