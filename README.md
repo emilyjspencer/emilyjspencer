@@ -63,15 +63,17 @@ ABRSM Grade 1 - 8 piano, ABRSM Grade 1- 5 violin, RAD primary - Grade 6 ballet, 
 Obtain the following:
 * PCPP1™ – Certified Professional Python Programmer Level 1
 * PCPP2™ – Certified Professional Python Programming Level 2
+* Datacamp Machine Learning Scientist in Python
+* Datacamp Machine Learning Engineer
+* Datacamp Statistician in R
 * Oracle Certified Professional, Java SE 8 Programmer
 * Microsoft Certified: Azure Data Scientist Associate
 * Databricks Certified Data Engineer
 * Databricks Certified Machine Learning Professional
 * Google Certified Data Engineer
 * Google Certified Machine Learning Engineer
-* DataCamp Python Data Associate Certification
 * eCornell Machine Learning Certificate
-* Scala certs if exist
+
   
 ***Giving back***
 * CFG ambassador ☑️
