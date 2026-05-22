@@ -91,7 +91,10 @@ Obtain the following:
 
 ***Portfolio**
 * Add more projects spanning FE, BE, data engineering, ML, AI engineering, with some integrating geospatial components, for example
-* Lagos Intelligence Platform. Following a recent trip to Lagos, Nigeria and experiencing first-hand the intense traffic, the knock-on effects and impact of flooding and road closures, widespread congestion, and high levels of pollution, I plan to build a real-time geospatial dashboard that analyzes data such as traffic, air quality etc. 
+* Lagos Intelligence Platform. Following a recent trip to Lagos, Nigeria and experiencing first-hand the intense traffic, the knock-on effects and impact of flooding and road closures, widespread congestion, and high levels of pollution, I plan to build a real-time geospatial dashboard that analyzes data such as traffic, air quality etc.
+* Line-learning app/prompter for practicing parts in plays
+* Mirroring dance app - to make it easier to learn dance choreography from the internet
+* ML projects
 
 ## Codewars: 
 
