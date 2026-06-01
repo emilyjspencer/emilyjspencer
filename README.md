@@ -63,6 +63,8 @@ ABRSM Grade 1 - 8 piano, ABRSM Grade 1- 5 violin, RAD primary - Grade 6 ballet, 
 Obtain the following:
 * PCPP1™ – Certified Professional Python Programmer Level 1
 * PCPP2™ – Certified Professional Python Programming Level 2
+* Datacamp Associate Data Scientist in Python
+* Datacamp Data Scientist in Python
 * Datacamp Machine Learning Scientist in Python
 * Datacamp Machine Learning Engineer
 * Datacamp Statistician in R
