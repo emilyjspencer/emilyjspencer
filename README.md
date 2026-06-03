@@ -76,17 +76,21 @@ Obtain the following:
   
 ***Giving back***
 * CFG ambassador ☑️
-* Scala open source
-* QGIS open source
+* We Make Change
 * Women in coding community
+* QGIS open source
+* Scala open source
+
   
 ***Upskilling***
-* Apache Akka
-* Kafka
+* Kafka (in-depth)
 * Play framework (Scala)
 * Terraform
-* RAG
 * Maths for machine learning and algos.
+* ML in depth (in-depth)
+* DS in depth (in-depth)
+* AI Eng (in-depth)
+* Apache Akka
 
 ***Portfolio**
 * Add more projects spanning FE, BE, data engineering, ML, AI engineering, with some integrating geospatial components, for example
