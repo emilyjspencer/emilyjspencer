@@ -83,13 +83,16 @@ Obtain the following:
 
   
 ***Upskilling***
-* Kafka (in-depth)
-* Play framework (Scala)
-* Terraform
-* Maths for machine learning and algos.
+* Geospatial (in-depth)
 * ML in depth (in-depth)
 * DS in depth (in-depth)
 * AI Eng (in-depth)
+
+* Maths for machine learning and algos.
+    
+* Kafka (in-depth)
+* Play framework (Scala)
+* Terraform
 * Apache Akka
 
 ***Portfolio**
