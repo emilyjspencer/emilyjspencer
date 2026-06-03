@@ -69,11 +69,8 @@ Obtain the following:
 * Datacamp Machine Learning Engineer
 * Datacamp Statistician in R
 * Oracle Certified Professional, Java SE 8 Programmer
-* Microsoft Certified: Azure Data Scientist Associate
 * Databricks Certified Data Engineer
 * Databricks Certified Machine Learning Professional
-* Google Certified Data Engineer
-* Google Certified Machine Learning Engineer
 * eCornell Machine Learning Certificate
 
   
